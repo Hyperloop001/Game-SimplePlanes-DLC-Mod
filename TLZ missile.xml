@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="TLZ missile" url="" theme="Custom" size="1.499999,1.804687,10.96094" boundsMin="-1.194801,3.128324,-7.084157" xmlVersion="4">
+  <Assembly>
+    <Parts>
+      <Part id="1" partType="Cockpit-1" position="-0.4448011,4.683011,-1.373219" rotation="0,0,0" drag="0.1278034,0.1278034,0.004320001,0.004320001,0.2579999,0.258" materials="0,0">
+        <Cockpit.State primaryCockpit="True" />
+      </Part>
+      <Part id="2" partType="Engine-Jet-7" position="-0.4448011,3.870511,-4.663844" rotation="0,0,0" drag="1.34027,1.34027,1.877,1.877,1.941002,1.941" materials="0,3,4,4">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Throttle" />
+        <Engine.State powerMultiplier="1" exhaustScale="1,1,1" exhaustStartColorOverridePrimary="FFFFFF0D" />
+      </Part>
+      <Part id="3" partType="Fuselage-Body-1" position="-0.4448011,3.870511,-2.748219" rotation="0,0,0" drag="0.04116992,0.04116992,0.8676606,0.8676606,0.8838739,0.8838744" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="2.25,2.25" rearScale="2,2" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="4" partType="Fuselage-Body-1" position="-0.4448011,3.870511,-0.998219" rotation="0,0,0" drag="0.09800002,0.09800002,2.007899,2.007899,2.075351,2.075355" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="2.25,2.25" rearScale="2.25,2.25" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="5" partType="Fuselage-Body-1" position="-0.4448011,3.870511,0.751781" rotation="0,0,0" drag="0.05199997,0.05199997,0.8776606,0.8776606,1.086956,1.086955" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="2,2" rearScale="2.25,2.25" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="6" partType="Fuselage-Body-1" position="-0.4448011,3.870511,1.751781" rotation="0,0,0" drag="0.2322696,0.2322696,0.9533,0.9533,0.5916319,0.5916323" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="1.5,1.5" rearScale="2,2" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="7" partType="Fuselage-Body-1" position="-0.4448011,3.870511,2.751781" rotation="0,0,0" drag="0.1216912,0.1216912,0.472077,0.472077,0.6233863,0.6233867" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="0.75,0.75" rearScale="1.5,1.5" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="8" partType="Fuselage-Body-1" position="-0.4448011,3.870511,3.564281" rotation="0,0,0" drag="0.08887114,0.08887114,0.258,0.258,0.05552687,0.05552688" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="0,0" rearScale="0.75,0.75" offset="0,0,1.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="9" partType="Fuselage-Body-1" position="-0.4448011,3.878324,-5.459157" rotation="0,0,0" drag="0.05328927,0.05328927,2.440217,2.440217,2.502457,2.50246" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State version="2" frontScale="3,3" rearScale="2.5,2.5" offset="0,0,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+      <Part id="10" partType="Fuselage-Inlet-1" position="-0.4448011,3.878324,-6.834157" rotation="0,180,0" drag="0.02397212,0.02397212,0.4850712,0.4850712,0.5697049,0.5697051" materials="0,3,-3">
+        <Fuselage.State version="2" frontScale="2,2" rearScale="2.5,2.5" offset="0,0,1" deadWeight="0" buoyancy="0" fuelPercentage="0" inletSlant="0" inletTrimSize="0.2" inletThicknessFront="0.2" inletThicknessRear="0.22" cornerTypes="3,3,3,3,3,3,3,3" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="1" partB="4" attachPointsA="1,2" attachPointsB="3,2" />
+      <Connection partA="3" partB="2" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="4" partB="3" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="9" partB="3" attachPointsA="4" attachPointsB="2" />
+      <Connection partA="5" partB="4" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="6" partB="5" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7" partB="6" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="8" partB="7" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="10" partB="9" attachPointsA="1" attachPointsB="1" />
+    </Connections>
+    <Bodies>
+      <Body partIds="1,4,3,2,9,10,5,6,7,8" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+    <Material color="2E2E2E" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0.3" m="0.5" s="0.83" />
+    <Material color="001F7F" r="0.3" m="0.5" s="0.83" />
+    <Material color="AA2A00" r="0.15" m="0.5" s="0.7" />
+    <Material color="3F3F3F" r="0" m="0.65" s="0.08" />
+    <Material color="5C0000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="FFF0F0" r="0" m="0.65" s="0.08" />
+    <Material color="FF0F0F" r="0" m="0.65" s="0.08" />
+    <Material color="AAAAAA" r="0" m="0.65" s="0.08" />
+    <Material color="3F3F3F" r="0.15" m="0.5" s="0.7" />
+    <Material color="ABABAB" r="0" m="0.65" s="0.08" />
+    <Material color="446677" r="0" m="0.65" s="0.08" />
+    <Material color="FF1143" r="0" m="0.65" s="0.08" />
+    <Material color="FF6A12" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="1E1E1E" r="0" m="0.65" s="0.08" />
+    <Material color="D0D0D0" r="0" m="0.65" s="0.08" />
+  </Theme>
+</Aircraft>

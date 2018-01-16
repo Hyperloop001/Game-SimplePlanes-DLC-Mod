@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="TLZ bus" url="" theme="Custom" size="3.168109,2.863556,11.5" boundsMin="-1.584055,1.369801,-5.75" xmlVersion="4">
+  <Assembly>
+    <Parts>
+      <Part id="1" partType="Cockpit-1" position="8.940697E-08,2.983356,2.75" rotation="0,0,0" drag="0.1235306,0.1235306,0.0134528,0.0134528,0.04127072,0.04127072" materials="7,0">
+        <Cockpit.State primaryCockpit="True" />
+      </Part>
+      <Part id="3" partType="Block-2" position="0.2500001,1.983353,1" rotation="0,0,0" drag="0.005903527,0.005903527,0.2539999,0.2539999,0.003916352,0.043504" materials="0" />
+      <Part id="13" partType="Block-2" position="0.2500001,1.983353,4" rotation="0,0,0" drag="0.007885633,0.007885633,0.25,0.25,0.004221824,0.0040656" materials="0" />
+      <Part id="14" partType="Block-2" position="0.7499999,1.983353,4" rotation="0,0,0" drag="0.006942912,0.006942912,0.254,0.254,0.004686257,0.00404" materials="0" />
+      <Part id="19" partType="Block-2" position="1.25,1.983353,4" rotation="0,0,0" drag="0.1207118,0.1207118,0.258,0.258,0.004109417,0.258" materials="0" />
+      <Part id="20" partType="Block-2" position="0.2500001,1.983353,3.5" rotation="0,0,0" drag="0.008659252,0.008659252,0.2539999,0.2539999,0.001897664,0.0037736" materials="1" />
+      <Part id="21" partType="Block-2" position="0.2500001,1.983353,3" rotation="0,0,0" drag="0.003815821,0.003815821,0.25,0.25,0.00115232,0.0005632" materials="0" />
+      <Part id="22" partType="Block-2" position="0.2500001,1.983353,2.5" rotation="0,0,0" drag="0.005258033,0.005258033,0.2539999,0.2539999,0.001768704,0.0037416" materials="1" />
+      <Part id="23" partType="Block-2" position="0.2500001,1.983353,2" rotation="0,0,0" drag="0.004729826,0.004729826,0.25,0.25,0.003052416,0.0030592" materials="0" />
+      <Part id="24" partType="Block-2" position="0.2500001,1.983353,1.5" rotation="0,0,0" drag="0.005497442,0.005497442,0.2539999,0.2539999,0.003581952,0.0433296" materials="1" />
+      <Part id="25" partType="Block-4" position="8.940697E-08,2.483356,3" rotation="90,0,0" drag="0.3633769,0.3633769,0.00384,0.00384,0.000566976,0.000566976" materials="0" />
+      <Part id="36" partType="Block-2" position="0.2500001,1.983353,0.5000005" rotation="0,0,0" drag="0.00619112,0.00619112,0.2539999,0.2539999,0.004083136,0.0435776" materials="1" />
+      <Part id="37" partType="Block-2" position="0.2500001,1.983353,4.768372E-07" rotation="0,0,0" drag="0.006431705,0.006431705,0.2539999,0.2539999,0.004094592,0.0435776" materials="0" />
+      <Part id="38" partType="Block-2" position="0.2500001,1.983353,-0.4999995" rotation="0,0,0" drag="0.006641344,0.006641344,0.2539999,0.2539999,0.004083136,0.0435776" materials="1" />
+      <Part id="39" partType="Block-2" position="0.2500001,1.983353,-0.9999995" rotation="0,0,0" drag="0.006831958,0.006831958,0.2539999,0.2539999,0.003916353,0.043504" materials="0" />
+      <Part id="53" partType="Block-2" position="0.7499999,1.983353,3" rotation="0,0,0" drag="0.07589625,0.07589625,0.258,0.258,0.002134459,8.000001E-05" materials="0" />
+      <Part id="54" partType="Wheel-Resizable-1" position="1.1,1.983353,3" rotation="0,180,0" drag="0.1508466,0.1508466,0.161,0.161,0.1567383,0.152" materials="6,4,4">
+        <ResizableWheel.State turningAngle="0" engineId="0" direction="Normal" size="2.5" width="1" tire="Street" damper="2" spring="1" enableSuspension="true" enableAutoTraction="true" turningRate="150" brakeTorque="50" slipForwardExtremum="8" slipForwardAsymptote="10" slipSidewaysExtremum="15" slipSidewaysAsymptote="20" tractionForward="1" tractionSideways="1" />
+        <InputController.State activationGroup="0" invert="false" min="-1" max="1" input="Yaw" />
+      </Part>
+      <Part id="55" partType="Block-2" position="0.7499999,1.983353,2" rotation="0,0,0" drag="0.06311248,0.06311248,0.258,0.258,0.003856548,0.004" materials="0" />
+      <Part id="56" partType="Block-2" position="1.25,1.983353,2" rotation="0,0,0" drag="0.001583493,0.001583493,0.2539999,0.2539999,0.003050347,0.254" materials="0" />
+      <Part id="74" partType="Block-2" position="0.2500001,1.983353,-2" rotation="0,0,0" drag="0.005097546,0.005097546,0.25,0.25,0.003053568,0.0030592" materials="0" />
+      <Part id="75" partType="Block-2" position="0.2500001,1.983353,-1.5" rotation="0,0,0" drag="0.007010089,0.007010089,0.2539999,0.2539999,0.003581952,0.0433296" materials="1" />
+      <Part id="76" partType="Block-2" position="0.2500001,1.983353,-2.5" rotation="0,0,0" drag="0.005779203,0.005779203,0.2539999,0.2539999,0.001789824,0.0037416" materials="1" />
+      <Part id="77" partType="Block-2" position="0.2500001,1.983353,-3" rotation="0,0,0" drag="0.005088001,0.005088001,0.25,0.25,0.001185984,0.0005664001" materials="0" />
+      <Part id="97" partType="Block-2" position="0.7499999,1.983353,-3" rotation="0,180,0" drag="0.05356674,0.05356674,0.258,0.258,0.002200814,8.000001E-05" materials="0" />
+      <Part id="99" partType="Block-2" position="0.7499999,1.983353,-2" rotation="0,0,0" drag="0.1299066,0.1299066,0.258,0.258,0.003872602,0.004" materials="0" />
+      <Part id="100" partType="Block-2" position="0.2500001,1.983353,-3.5" rotation="0,0,0" drag="0.005692875,0.005692875,0.2539999,0.2539999,0.001806144,0.0037432" materials="1" />
+      <Part id="101" partType="Block-2" position="0.2500001,1.983353,-4" rotation="0,0,0" drag="0.005040021,0.005040021,0.25,0.25,0.00337344,0.0032832" materials="0" />
+      <Part id="104" partType="Block-2" position="0.7499999,1.983353,-4" rotation="0,0,0" drag="0.048778,0.048778,0.254,0.254,0.003811991,0.00352" materials="0" />
+      <Part id="105" partType="Wheel-Resizable-1" position="1.1,1.983353,-3" rotation="0,180,0" drag="0.1509368,0.1509368,0.161,0.161,0.1567458,0.152" materials="6,4,4">
+        <ResizableWheel.State turningAngle="0" engineId="0" direction="Normal" size="2.5" width="1" tire="Street" damper="2" spring="1" enableSuspension="true" enableAutoTraction="true" turningRate="150" brakeTorque="50" slipForwardExtremum="8" slipForwardAsymptote="10" slipSidewaysExtremum="15" slipSidewaysAsymptote="20" tractionForward="1" tractionSideways="1" />
+        <InputController.State activationGroup="0" invert="false" min="-1" max="1" input="Yaw" />
+      </Part>
+      <Part id="106" partType="Block-2" position="1.25,1.983353,-2" rotation="0,0,0" drag="0.007253218,0.007253218,0.2539999,0.2539999,0.003050347,0.254" materials="0" />
+      <Part id="107" partType="Block-2" position="1.25,1.983353,-4" rotation="0,0,0" drag="0.001557563,0.001557563,0.2539999,0.2539999,0.003337932,0.254" materials="0" />
+      <Part id="139" partType="Block-6" position="1.25,2.483356,3.5" rotation="90,180,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="140" partType="Block-2" position="1.25,2.483356,4" rotation="0,0,0" drag="0.1159522,0.1159522,0.008040001,0.008040001,0.07822701,0.254" materials="0" />
+      <Part id="141" partType="Block-2" position="1.25,2.483356,2" rotation="0,0,0" drag="0.003842821,0.003842821,0.005040001,0.005040001,0.0109912,0.25" materials="0" />
+      <Part id="142" partType="Block-6" position="1.25,2.483356,2.5" rotation="90,0,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="143" partType="Block-2" position="1.25,2.483356,-2" rotation="0,0,0" drag="0.00551312,0.00551312,0.005040001,0.005040001,0.01312512,0.25" materials="0" />
+      <Part id="144" partType="Block-2" position="1.25,2.483356,-4" rotation="0,0,0" drag="0.002946635,0.002946635,0.00452,0.00452,0.02807792,0.25" materials="0" />
+      <Part id="145" partType="Block-6" position="1.25,2.483356,-2.5" rotation="90,180,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="146" partType="Block-6" position="1.25,2.483356,-3.5" rotation="90,0,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="186" partType="Block-2" position="0.7499999,1.983353,4.5" rotation="0,0,0" drag="0.008404801,0.008404801,0.2539999,0.2539999,0.006536381,0.25748" materials="0" />
+      <Part id="187" partType="Block-2" position="0.7499999,1.983353,5" rotation="0,0,0" drag="0.00808,0.00808,0.2539999,0.2539999,0.006884419,0.25748" materials="0" />
+      <Part id="188" partType="Block-2" position="0.7499999,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.25,0.25,0.006774955,0.00508" materials="0" />
+      <Part id="189" partType="Block-2" position="0.25,1.983353,4.5" rotation="0,0,0" drag="0.007968,0.007968,0.25,0.25,0.006772929,0.0070816" materials="0" />
+      <Part id="190" partType="Block-2" position="0.2499999,1.983353,5" rotation="0,0,0" drag="0.008,0.008,0.25,0.25,0.006977472,0.007144" materials="0" />
+      <Part id="191" partType="Block-2" position="0.2499999,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.25,0.25,0.006447809,0.005936" materials="0" />
+      <Part id="237" partType="Block-2" position="1.25,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.258,0.258,0.004841684,0.258" materials="0" />
+      <Part id="284" partType="Block-2" position="1.25,2.983356,4" rotation="0,0,0" drag="0.1201997,0.1201997,0.007601601,0.007601601,0.09036555,0.254" materials="0" />
+      <Part id="285" partType="Block-2" position="1.25,2.983356,3.5" rotation="0,0,0" drag="0.007155213,0.007155213,0.0035872,0.0035872,0.05687907,0.254" materials="0" />
+      <Part id="286" partType="Block-2" position="1.25,2.983356,3" rotation="0,0,0" drag="0.00778756,0.00778756,0.0026496,0.0026496,0.05504503,0.254" materials="0" />
+      <Part id="287" partType="Block-2" position="1.25,2.983356,2.5" rotation="0,0,0" drag="0.008206488,0.008206488,0.003616,0.003616,0.04760196,0.254" materials="0" />
+      <Part id="288" partType="Block-2" position="1.25,2.983356,2" rotation="0,0,0" drag="0.008113982,0.008113982,0.0050944,0.0050944,0.04834833,0.254" materials="0" />
+      <Part id="289" partType="Block-2" position="1.25,2.983356,-2" rotation="0,0,0" drag="0.006271704,0.006271704,0.0050944,0.0050944,0.0540706,0.254" materials="0" />
+      <Part id="290" partType="Block-2" position="1.25,2.983356,-4" rotation="0,0,0" drag="0.005184304,0.005184304,0.0047936,0.0047936,0.06870791,0.254" materials="0" />
+      <Part id="291" partType="Block-2" position="1.25,2.983356,-3.5" rotation="0,0,0" drag="0.007552044,0.007552044,0.0035808,0.0035808,0.05406344,0.254" materials="0" />
+      <Part id="292" partType="Block-2" position="1.25,2.983356,-3" rotation="0,0,0" drag="0.007225743,0.007225743,0.002624,0.002624,0.06058959,0.254" materials="0" />
+      <Part id="293" partType="Block-2" position="1.25,2.983356,-2.5" rotation="0,0,0" drag="0.006826973,0.006826973,0.0036112,0.0036112,0.0605896,0.254" materials="0" />
+      <Part id="350" partType="Block-2" position="1.25,1.983353,-1.5" rotation="0,0,0" drag="0.009061532,0.009061532,0.258,0.258,0.03988535,0.254" materials="0" />
+      <Part id="351" partType="Block-2" position="1.25,1.983353,-0.9999995" rotation="0,0,0" drag="0.008730128,0.008730128,0.258,0.258,0.0435861,0.254" materials="0" />
+      <Part id="352" partType="Block-2" position="1.25,1.983353,-0.4999995" rotation="0,0,0" drag="0.008299146,0.008299146,0.258,0.258,0.04569045,0.254" materials="0" />
+      <Part id="353" partType="Block-2" position="1.25,1.983353,4.768372E-07" rotation="0,0,0" drag="0.007720262,0.007720262,0.258,0.258,0.045982,0.254" materials="0" />
+      <Part id="354" partType="Block-2" position="1.25,1.983353,0.5000005" rotation="0,0,0" drag="0.006913138,0.006913138,0.258,0.258,0.04569045,0.254" materials="0" />
+      <Part id="355" partType="Block-2" position="1.25,1.983353,1" rotation="0,0,0" drag="0.005748915,0.005748915,0.258,0.258,0.0435861,0.254" materials="0" />
+      <Part id="356" partType="Block-2" position="1.25,1.983353,1.5" rotation="0,0,0" drag="0.004030937,0.004030937,0.258,0.258,0.03988535,0.254" materials="0" />
+      <Part id="420" partType="Block-2" position="1.25,2.483355,5.5" rotation="0,0,0" drag="0.258,0.258,0.008080001,0.008080001,0.1798622,0.254" materials="0" />
+      <Part id="421" partType="Block-2" position="1.25,2.983355,5.5" rotation="0,0,0" drag="0.258,0.258,0.008369601,0.008369601,0.177739,0.254" materials="0" />
+      <Part id="422" partType="Block-2" position="1.25,3.483355,5.5" rotation="0,0,0" drag="0.258,0.258,0.008598145,0.008598145,0.1693457,0.254" materials="0" />
+      <Part id="423" partType="Block-2" position="1.25,3.483356,4" rotation="0,0,0" drag="0.1144455,0.1144455,0.007985472,0.007985472,0.1025205,0.258" materials="0" />
+      <Part id="424" partType="Block-2" position="1.25,3.983356,4" rotation="0,0,0" drag="0.006059776,0.006059776,0.004523699,0.004523699,0.1455654,0.25" materials="0" />
+      <Part id="425" partType="Block-2" position="1.25,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.003971766,0.003971766,0,0.25" materials="0" />
+      <Part id="426" partType="Block-2" position="1.25,3.983355,5" rotation="0,0,0" drag="0.006000001,0.006000001,0.1861074,0.1861074,0.16644,0.254" materials="0" />
+      <Part id="427" partType="Block-2" position="1.25,3.983355,4.5" rotation="0,0,0" drag="0.0072208,0.0072208,0.185757,0.185757,0.1604885,0.254" materials="0" />
+      <Part id="428" partType="Block-2" position="1.25,3.983356,3.5" rotation="0,0,0" drag="0.007130294,0.007130294,0.0435812,0.0435812,0.1539665,0.254" materials="0" />
+      <Part id="429" partType="Block-2" position="1.25,3.983356,3" rotation="0,0,0" drag="0.007815482,0.007815482,0.03764764,0.03764764,0.1655973,0.254" materials="0" />
+      <Part id="430" partType="Block-2" position="1.25,3.983356,2.5" rotation="0,0,0" drag="0.008350275,0.008350275,0.0444864,0.0444864,0.1654059,0.254" materials="0" />
+      <Part id="431" partType="Block-2" position="1.25,3.983356,2" rotation="0,0,0" drag="0.008803544,0.008803544,0.05534217,0.05534217,0.1539284,0.254" materials="0" />
+      <Part id="432" partType="Block-2" position="1.25,3.983356,1.5" rotation="0,0,0" drag="0.00687881,0.00687881,0.005578404,0.005578404,0.145536,0.25" materials="0" />
+      <Part id="433" partType="Block-2" position="1.25,3.983356,1" rotation="0,0,0" drag="0.00778905,0.00778905,0.1140594,0.1140594,0.1624941,0.254" materials="0" />
+      <Part id="434" partType="Block-2" position="1.25,3.983356,0.5000005" rotation="0,0,0" drag="0.008309077,0.008309077,0.1121692,0.1121692,0.1769574,0.254" materials="0" />
+      <Part id="435" partType="Block-2" position="1.25,3.983356,4.768372E-07" rotation="0,0,0" drag="0.008667289,0.008667289,0.1121694,0.1121694,0.1800109,0.254" materials="0" />
+      <Part id="436" partType="Block-2" position="1.25,3.983356,-0.4999995" rotation="0,0,0" drag="0.008961576,0.008961576,0.1121692,0.1121692,0.1769574,0.254" materials="0" />
+      <Part id="437" partType="Block-2" position="1.25,3.983356,-0.9999995" rotation="0,0,0" drag="0.0092123,0.0092123,0.1140594,0.1140594,0.1624941,0.254" materials="0" />
+      <Part id="438" partType="Block-2" position="1.25,3.983356,-1.5" rotation="0,0,0" drag="0.007015378,0.007015378,0.005578273,0.005578273,0.145536,0.25" materials="0" />
+      <Part id="439" partType="Block-2" position="1.25,3.983356,-2" rotation="0,0,0" drag="0.007838603,0.007838603,0.05533569,0.05533569,0.1536964,0.254" materials="0" />
+      <Part id="440" partType="Block-2" position="1.25,3.983356,-2.5" rotation="0,0,0" drag="0.008300077,0.008300077,0.0443305,0.0443305,0.1644535,0.254" materials="0" />
+      <Part id="441" partType="Block-2" position="1.25,3.983356,-3" rotation="0,0,0" drag="0.008659934,0.008659934,0.03745699,0.03745699,0.1644535,0.254" materials="0" />
+      <Part id="442" partType="Block-2" position="1.25,3.983356,-3.5" rotation="0,0,0" drag="0.008976156,0.008976156,0.04337272,0.04337272,0.1536952,0.254" materials="0" />
+      <Part id="443" partType="Block-2" position="1.25,3.983356,-4" rotation="0,0,0" drag="0.006977826,0.006977826,0.004033938,0.004033938,0.1453926,0.25" materials="0" />
+      <Part id="444" partType="Block-2" position="1.25,3.483356,-4" rotation="0,0,0" drag="0.1367823,0.1367823,0.005544896,0.005544896,0.09873877,0.258" materials="0" />
+      <Part id="445" partType="Block-2" position="1.25,3.483356,1.5" rotation="0,0,0" drag="0.1397441,0.1397441,0.008409024,0.008409024,0.09941078,0.258" materials="0" />
+      <Part id="446" partType="Block-2" position="1.25,3.483356,-1.5" rotation="0,0,0" drag="0.1466096,0.1466096,0.008409025,0.008409025,0.0993541,0.258" materials="0" />
+      <Part id="447" partType="Block-2" position="1.25,2.483356,-1.5" rotation="0,0,0" drag="0.005398341,0.005398341,0.007400001,0.007400001,0.02557536,0.25" materials="0" />
+      <Part id="448" partType="Block-2" position="1.25,2.983356,-1.5" rotation="0,0,0" drag="0.1383973,0.1383973,0.007732801,0.007732801,0.06932247,0.254" materials="0" />
+      <Part id="449" partType="Block-2" position="1.25,2.483355,1.5" rotation="0,0,0" drag="0.004581002,0.004581002,0.007400001,0.007400001,0.02554512,0.25" materials="0" />
+      <Part id="450" partType="Block-2" position="1.25,2.983356,1.5" rotation="0,0,0" drag="0.005975968,0.005975968,0.007732801,0.007732801,0.06906359,0.254" materials="0" />
+      <Part id="451" partType="Block-2" position="1.25,2.483355,1" rotation="0,0,0" drag="0.005654052,0.005654052,0.007920001,0.007920001,0.05634962,0.254" materials="0" />
+      <Part id="452" partType="Block-2" position="1.25,2.483355,0.5000005" rotation="0,0,0" drag="0.006271383,0.006271383,0.007920001,0.007920001,0.07493533,0.254" materials="0" />
+      <Part id="453" partType="Block-2" position="1.25,2.483355,4.768372E-07" rotation="0,0,0" drag="0.006702036,0.006702036,0.007920001,0.007920001,0.07835668,0.254" materials="0" />
+      <Part id="454" partType="Block-2" position="1.25,2.483355,-0.4999995" rotation="0,0,0" drag="0.007055072,0.007055072,0.007920001,0.007920001,0.07493533,0.254" materials="0" />
+      <Part id="455" partType="Block-2" position="1.25,2.483355,-0.9999995" rotation="0,0,0" drag="0.007358444,0.007358444,0.007920001,0.007920001,0.05634962,0.254" materials="0" />
+      <Part id="555" partType="Block-2" position="0.75,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.1077026,0.1077026,0.005126157,0.00208" materials="0" />
+      <Part id="556" partType="Block-2" position="0.25,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.09568856,0.09568856,0.004507904,0.0035808" materials="0" />
+      <Part id="559" partType="Block-2" position="1.25,1.983353,-4.5" rotation="0,0,0" drag="0.003448966,0.003448966,0.2539999,0.2539999,0.003834113,0.254" materials="0" />
+      <Part id="561" partType="Block-3" position="1.25,1.983353,-5.25" rotation="0,180,180" drag="0.01053058,0.01053058,0.4592135,0.4592135,0.01195653,0.262" materials="0" />
+      <Part id="562" partType="Block-2" position="0.7499999,1.983353,-4.5" rotation="0,0,0" drag="0.00395922,0.00395922,0.25,0.25,0.004598917,0.00408" materials="0" />
+      <Part id="563" partType="Block-2" position="0.25,1.983353,-4.5" rotation="0,0,0" drag="0.005070172,0.005070172,0.25,0.25,0.0044976,0.0043392" materials="0" />
+      <Part id="565" partType="Block-3" position="0.7499999,1.983353,-5.25" rotation="0,180,180" drag="0.007044499,0.007044499,0.4512136,0.4512136,0.01285404,0.01208" materials="0" />
+      <Part id="566" partType="Block-3" position="0.25,1.983353,-5.25" rotation="0,180,180" drag="0.008516321,0.008516321,0.4512136,0.4512136,0.01267629,0.0124144" materials="0" />
+      <Part id="672" partType="Block-2" position="1.25,2.483355,-4.5" rotation="0,0,0" drag="0.004654028,0.004654028,0.004,0.004,0.06025939,0.254" materials="0" />
+      <Part id="673" partType="Block-2" position="1.25,2.483355,-5" rotation="0,0,0" drag="0.005618681,0.005618681,0.004,0.004,0.07126895,0.254" materials="0" />
+      <Part id="674" partType="Block-2" position="1.25,2.483355,-5.5" rotation="0,0,0" drag="0.003281662,0.003281662,0.008,0.008,0.00380361,0.254" materials="0" />
+      <Part id="675" partType="Block-2" position="1.25,2.983355,-5.5" rotation="0,0,0" drag="0.08329824,0.08329824,0.00896,0.00896,0.1432824,0.258" materials="0" />
+      <Part id="676" partType="Block-2" position="1.25,3.483355,-5.5" rotation="0,0,0" drag="0.09381077,0.09381077,0.009436801,0.009436801,0.1454046,0.258" materials="0" />
+      <Part id="677" partType="Block-2" position="1.25,3.983355,-5.5" rotation="0,0,0" drag="0.003757196,0.003757196,0.007575489,0.007575489,0.00381133,0.254" materials="0" />
+      <Part id="678" partType="Block-2" position="1.25,3.983356,-4.5" rotation="0,0,0" drag="0.007810763,0.007810763,0.06257074,0.06257074,0.1598255,0.254" materials="0" />
+      <Part id="679" partType="Block-2" position="1.25,3.983355,-5" rotation="0,0,0" drag="0.008272442,0.008272442,0.06208507,0.06208507,0.1654258,0.254" materials="0" />
+      <Part id="680" partType="Block-2" position="0.75,3.983355,-5.5" rotation="0,0,0" drag="0.201314,0.201314,0.06206011,0.06206011,0.008513718,0.006000001" materials="0" />
+      <Part id="681" partType="Block-2" position="0.25,3.983355,-5.5" rotation="0,180,0" drag="0.2102477,0.2102477,0.06054353,0.06054353,0.007980288,0.007220801" materials="0" />
+      <Part id="799" partType="Block-2" position="0.2500004,2.483353,-5.5" rotation="0,0,0" drag="0.1108821,0.1108821,0.004,0.004,0.00664288,0.0061696" materials="0" />
+      <Part id="800" partType="Block-2" position="0.75,2.483355,-5.5" rotation="0,0,0" drag="0.09848089,0.09848089,0.004,0.004,0.00699787,0.00544" materials="0" />
+      <Part id="801" partType="Block-2" position="-0.2499999,1.983353,3" rotation="0,0,0" drag="0.003815822,0.003815822,0.25,0.25,0.0005632,0.00115232" materials="0" />
+      <Part id="802" partType="Block-2" position="-0.2499999,1.983353,3.5" rotation="0,0,0" drag="0.008659251,0.008659251,0.254,0.254,0.003773601,0.001897664" materials="1" />
+      <Part id="803" partType="Block-2" position="-0.2499999,1.983353,4" rotation="0,0,0" drag="0.007885632,0.007885632,0.25,0.25,0.0040656,0.004221824" materials="0" />
+      <Part id="804" partType="Block-2" position="-0.7499996,1.983353,4" rotation="0,0,0" drag="0.006942912,0.006942912,0.254,0.254,0.00404,0.004686256" materials="0" />
+      <Part id="805" partType="Block-2" position="-1.25,1.983353,4" rotation="0,0,0" drag="0.1207117,0.1207117,0.258,0.258,0.258,0.004109417" materials="0" />
+      <Part id="806" partType="Block-2" position="-1.25,2.483356,4" rotation="0,0,0" drag="0.1159522,0.1159522,0.008040001,0.008040001,0.2539999,0.07822702" materials="0" />
+      <Part id="807" partType="Block-6" position="-1.25,2.483356,3.5" rotation="90,180,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="808" partType="Block-2" position="-1.25,2.983356,3.5" rotation="0,0,0" drag="0.007155214,0.007155214,0.0035872,0.0035872,0.2539999,0.05687907" materials="0" />
+      <Part id="809" partType="Block-2" position="-1.25,2.983356,4" rotation="0,0,0" drag="0.1201997,0.1201997,0.0076016,0.0076016,0.2539999,0.09036555" materials="0" />
+      <Part id="810" partType="Block-2" position="-1.25,3.483356,4" rotation="0,0,0" drag="0.1144455,0.1144455,0.007985472,0.007985472,0.258,0.1025205" materials="0" />
+      <Part id="811" partType="Block-2" position="-1.25,3.983356,4" rotation="0,0,0" drag="0.006059776,0.006059776,0.004523699,0.004523699,0.25,0.1455654" materials="0" />
+      <Part id="812" partType="Block-2" position="-1.25,3.983355,4.5" rotation="0,0,0" drag="0.007220801,0.007220801,0.185757,0.185757,0.254,0.1604885" materials="0" />
+      <Part id="813" partType="Block-2" position="-1.25,3.983355,5" rotation="0,0,0" drag="0.006000001,0.006000001,0.1861074,0.1861074,0.254,0.16644" materials="0" />
+      <Part id="814" partType="Block-2" position="-1.25,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.003971766,0.003971766,0.25,0" materials="0" />
+      <Part id="815" partType="Block-2" position="-1.25,3.483355,5.5" rotation="0,0,0" drag="0.258,0.258,0.008598145,0.008598145,0.254,0.1693457" materials="0" />
+      <Part id="816" partType="Block-2" position="-1.25,2.983355,5.5" rotation="0,0,0" drag="0.258,0.258,0.0083696,0.0083696,0.254,0.177739" materials="0" />
+      <Part id="817" partType="Block-2" position="-1.25,2.483355,5.5" rotation="0,0,0" drag="0.258,0.258,0.00808,0.00808,0.254,0.1798622" materials="0" />
+      <Part id="818" partType="Block-2" position="-1.25,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.258,0.258,0.258,0.004841684" materials="0" />
+      <Part id="819" partType="Block-2" position="-0.7499996,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.25,0.25,0.00508,0.006774956" materials="0" />
+      <Part id="820" partType="Block-2" position="-0.7499996,1.983353,5" rotation="0,0,0" drag="0.008080001,0.008080001,0.254,0.254,0.25748,0.006884419" materials="0" />
+      <Part id="821" partType="Block-2" position="-0.7499996,1.983353,4.5" rotation="0,0,0" drag="0.008404801,0.008404801,0.254,0.254,0.2574799,0.006536382" materials="0" />
+      <Part id="822" partType="Block-2" position="-0.2499998,1.983353,4.5" rotation="0,0,0" drag="0.007968,0.007968,0.25,0.25,0.0070816,0.006772928" materials="0" />
+      <Part id="823" partType="Block-2" position="-0.2499997,1.983353,5" rotation="0,0,0" drag="0.008,0.008,0.25,0.25,0.007144,0.006977472" materials="0" />
+      <Part id="824" partType="Block-2" position="-0.2499997,1.983353,5.5" rotation="0,0,0" drag="0.258,0.258,0.25,0.25,0.005936,0.006447808" materials="0" />
+      <Part id="825" partType="Block-2" position="-0.2500002,2.483353,-5.5" rotation="0,0,0" drag="0.1108821,0.1108821,0.004,0.004,0.0061696,0.00664288" materials="0" />
+      <Part id="826" partType="Block-3" position="-0.2499998,1.983353,-5.25" rotation="0,180,180" drag="0.008516321,0.008516321,0.4512136,0.4512136,0.0124144,0.01267629" materials="0" />
+      <Part id="827" partType="Block-2" position="-0.2499998,1.983353,-4.5" rotation="0,0,0" drag="0.005070171,0.005070171,0.25,0.25,0.0043392,0.004497601" materials="0" />
+      <Part id="828" partType="Block-2" position="-0.2499999,1.983353,-4" rotation="0,0,0" drag="0.005040021,0.005040021,0.25,0.25,0.0032832,0.00337344" materials="0" />
+      <Part id="829" partType="Block-2" position="-0.2499999,1.983353,-3.5" rotation="0,0,0" drag="0.005692875,0.005692875,0.254,0.254,0.003743201,0.001806144" materials="1" />
+      <Part id="830" partType="Block-2" position="-0.2499999,1.983353,-3" rotation="0,0,0" drag="0.005088001,0.005088001,0.25,0.25,0.0005664001,0.001185984" materials="0" />
+      <Part id="831" partType="Block-2" position="-0.2499999,1.983353,-2.5" rotation="0,0,0" drag="0.005779203,0.005779203,0.254,0.254,0.003741601,0.001789824" materials="1" />
+      <Part id="832" partType="Block-2" position="-0.2499999,1.983353,-2" rotation="0,0,0" drag="0.005097545,0.005097545,0.25,0.25,0.0030592,0.003053568" materials="0" />
+      <Part id="833" partType="Block-2" position="-0.2499999,1.983353,-1.5" rotation="0,0,0" drag="0.007010089,0.007010089,0.254,0.254,0.0433296,0.003581952" materials="1" />
+      <Part id="834" partType="Block-2" position="-0.2499999,1.983353,-0.9999995" rotation="0,0,0" drag="0.006831958,0.006831958,0.254,0.254,0.043504,0.003916352" materials="0" />
+      <Part id="835" partType="Block-2" position="-0.2499999,1.983353,-0.4999995" rotation="0,0,0" drag="0.006641343,0.006641343,0.254,0.254,0.0435776,0.004083136" materials="1" />
+      <Part id="836" partType="Block-2" position="-0.2499999,1.983353,4.768372E-07" rotation="0,0,0" drag="0.006431704,0.006431704,0.254,0.254,0.0435776,0.004094592" materials="0" />
+      <Part id="837" partType="Block-2" position="-0.2499999,1.983353,0.5000005" rotation="0,0,0" drag="0.00619112,0.00619112,0.254,0.254,0.0435776,0.004083136" materials="1" />
+      <Part id="838" partType="Block-2" position="-0.2499999,1.983353,1" rotation="0,0,0" drag="0.005903528,0.005903528,0.254,0.254,0.043504,0.003916352" materials="0" />
+      <Part id="839" partType="Block-2" position="-0.2499999,1.983353,1.5" rotation="0,0,0" drag="0.005497442,0.005497442,0.254,0.254,0.0433296,0.003581952" materials="1" />
+      <Part id="840" partType="Block-2" position="-0.2499999,1.983353,2" rotation="0,0,0" drag="0.004729827,0.004729827,0.25,0.25,0.0030592,0.003052416" materials="0" />
+      <Part id="841" partType="Block-2" position="-0.2499999,1.983353,2.5" rotation="0,0,0" drag="0.005258034,0.005258034,0.254,0.254,0.003741601,0.001768704" materials="1" />
+      <Part id="842" partType="Block-2" position="-0.7499996,1.983353,2" rotation="0,0,0" drag="0.06311249,0.06311249,0.258,0.258,0.004,0.003856548" materials="0" />
+      <Part id="843" partType="Block-2" position="-1.25,1.983353,2" rotation="0,0,0" drag="0.001583493,0.001583493,0.254,0.254,0.254,0.003050347" materials="0" />
+      <Part id="844" partType="Block-2" position="-1.25,2.483356,2" rotation="0,0,0" drag="0.003842821,0.003842821,0.005040001,0.005040001,0.25,0.0109912" materials="0" />
+      <Part id="845" partType="Block-6" position="-1.25,2.483356,2.5" rotation="90,0,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="846" partType="Block-2" position="-1.25,2.983356,2.5" rotation="0,0,0" drag="0.008206489,0.008206489,0.003616,0.003616,0.2539999,0.04760196" materials="0" />
+      <Part id="847" partType="Block-2" position="-1.25,2.983356,3" rotation="0,0,0" drag="0.00778756,0.00778756,0.0026496,0.0026496,0.2539999,0.05504503" materials="0" />
+      <Part id="848" partType="Block-2" position="-1.25,2.983356,2" rotation="0,0,0" drag="0.008113982,0.008113982,0.005094401,0.005094401,0.2539999,0.04834833" materials="0" />
+      <Part id="849" partType="Block-2" position="-1.25,2.983356,1.5" rotation="0,0,0" drag="0.005975968,0.005975968,0.0077328,0.0077328,0.254,0.06906359" materials="0" />
+      <Part id="850" partType="Block-2" position="-1.25,3.483356,1.5" rotation="0,0,0" drag="0.1397441,0.1397441,0.008409024,0.008409024,0.258,0.09941079" materials="0" />
+      <Part id="851" partType="Block-2" position="-1.25,3.983356,1.5" rotation="0,0,0" drag="0.00687881,0.00687881,0.005578404,0.005578404,0.25,0.145536" materials="0" />
+      <Part id="852" partType="Block-2" position="-1.25,3.983356,2" rotation="0,0,0" drag="0.008803545,0.008803545,0.05534217,0.05534217,0.254,0.1539284" materials="0" />
+      <Part id="853" partType="Block-2" position="-1.25,3.983356,2.5" rotation="0,0,0" drag="0.008350275,0.008350275,0.04448639,0.04448639,0.254,0.1654059" materials="0" />
+      <Part id="854" partType="Block-2" position="-1.25,3.983356,3" rotation="0,0,0" drag="0.007815483,0.007815483,0.03764765,0.03764765,0.254,0.1655973" materials="0" />
+      <Part id="855" partType="Block-2" position="-1.25,3.983356,3.5" rotation="0,0,0" drag="0.007130294,0.007130294,0.0435812,0.0435812,0.254,0.1539665" materials="0" />
+      <Part id="856" partType="Block-2" position="-1.25,3.983356,1" rotation="0,0,0" drag="0.00778905,0.00778905,0.1140594,0.1140594,0.254,0.1624942" materials="0" />
+      <Part id="857" partType="Block-2" position="-1.25,3.983356,0.5000005" rotation="0,0,0" drag="0.008309077,0.008309077,0.1121692,0.1121692,0.254,0.1769574" materials="0" />
+      <Part id="858" partType="Block-2" position="-1.25,3.983356,4.768372E-07" rotation="0,0,0" drag="0.008667288,0.008667288,0.1121694,0.1121694,0.254,0.1800109" materials="0" />
+      <Part id="859" partType="Block-2" position="-1.25,3.983356,-0.4999995" rotation="0,0,0" drag="0.008961575,0.008961575,0.1121692,0.1121692,0.254,0.1769574" materials="0" />
+      <Part id="860" partType="Block-2" position="-1.25,3.983356,-0.9999995" rotation="0,0,0" drag="0.009212302,0.009212302,0.1140594,0.1140594,0.254,0.1624942" materials="0" />
+      <Part id="861" partType="Block-2" position="-1.25,3.983356,-1.5" rotation="0,0,0" drag="0.007015379,0.007015379,0.005578273,0.005578273,0.25,0.145536" materials="0" />
+      <Part id="862" partType="Block-2" position="-1.25,3.983356,-2" rotation="0,0,0" drag="0.007838605,0.007838605,0.0553357,0.0553357,0.254,0.1536964" materials="0" />
+      <Part id="863" partType="Block-2" position="-1.25,3.983356,-2.5" rotation="0,0,0" drag="0.008300078,0.008300078,0.0443305,0.0443305,0.254,0.1644535" materials="0" />
+      <Part id="864" partType="Block-2" position="-1.25,3.983356,-3" rotation="0,0,0" drag="0.008659935,0.008659935,0.03745699,0.03745699,0.254,0.1644535" materials="0" />
+      <Part id="865" partType="Block-2" position="-1.25,3.983356,-3.5" rotation="0,0,0" drag="0.008976156,0.008976156,0.04337271,0.04337271,0.254,0.1536952" materials="0" />
+      <Part id="866" partType="Block-2" position="-1.25,3.983356,-4" rotation="0,0,0" drag="0.006977826,0.006977826,0.004033939,0.004033939,0.25,0.1453926" materials="0" />
+      <Part id="867" partType="Block-2" position="-1.25,3.483356,-4" rotation="0,0,0" drag="0.1367823,0.1367823,0.005544896,0.005544896,0.258,0.09873876" materials="0" />
+      <Part id="868" partType="Block-2" position="-1.25,2.983356,-4" rotation="0,0,0" drag="0.005184304,0.005184304,0.0047936,0.0047936,0.254,0.06870791" materials="0" />
+      <Part id="869" partType="Block-2" position="-1.25,2.483356,-4" rotation="0,0,0" drag="0.002946635,0.002946635,0.00452,0.00452,0.25,0.02807792" materials="0" />
+      <Part id="870" partType="Block-2" position="-1.25,1.983353,-4" rotation="0,0,0" drag="0.001557564,0.001557564,0.254,0.254,0.254,0.003337932" materials="0" />
+      <Part id="871" partType="Block-2" position="-0.7499996,1.983353,-4" rotation="0,0,0" drag="0.048778,0.048778,0.254,0.254,0.00352,0.003811991" materials="0" />
+      <Part id="872" partType="Block-2" position="-0.7499996,1.983353,-4.5" rotation="0,0,0" drag="0.00395922,0.00395922,0.25,0.25,0.00408,0.004598918" materials="0" />
+      <Part id="873" partType="Block-2" position="-1.25,1.983353,-4.5" rotation="0,0,0" drag="0.003448965,0.003448965,0.254,0.254,0.254,0.003834113" materials="0" />
+      <Part id="874" partType="Block-3" position="-1.25,1.983353,-5.25" rotation="0,180,180" drag="0.01053059,0.01053059,0.4592136,0.4592136,0.262,0.01195653" materials="0" />
+      <Part id="875" partType="Block-2" position="-1.25,2.483355,-5" rotation="0,0,0" drag="0.005618681,0.005618681,0.004,0.004,0.2539999,0.07126895" materials="0" />
+      <Part id="876" partType="Block-2" position="-1.25,2.483355,-4.5" rotation="0,0,0" drag="0.004654028,0.004654028,0.004,0.004,0.2539999,0.06025939" materials="0" />
+      <Part id="877" partType="Block-2" position="-1.25,2.483355,-5.5" rotation="0,0,0" drag="0.003281662,0.003281662,0.008,0.008,0.254,0.00380361" materials="0" />
+      <Part id="878" partType="Block-2" position="-1.25,2.983355,-5.5" rotation="0,0,0" drag="0.08329824,0.08329824,0.00896,0.00896,0.258,0.1432824" materials="0" />
+      <Part id="879" partType="Block-2" position="-1.25,3.483355,-5.5" rotation="0,0,0" drag="0.09381077,0.09381077,0.009436801,0.009436801,0.258,0.1454046" materials="0" />
+      <Part id="880" partType="Block-2" position="-1.25,3.983355,-5.5" rotation="0,0,0" drag="0.003757196,0.003757196,0.007575489,0.007575489,0.254,0.00381133" materials="0" />
+      <Part id="881" partType="Block-2" position="-1.25,3.983355,-5" rotation="0,0,0" drag="0.008272442,0.008272442,0.06208507,0.06208507,0.254,0.1654258" materials="0" />
+      <Part id="882" partType="Block-2" position="-1.25,3.983356,-4.5" rotation="0,0,0" drag="0.007810762,0.007810762,0.06257074,0.06257074,0.254,0.1598255" materials="0" />
+      <Part id="883" partType="Block-2" position="-0.7499998,3.983355,-5.5" rotation="0,0,0" drag="0.201314,0.201314,0.06206011,0.06206011,0.006000001,0.008513718" materials="0" />
+      <Part id="884" partType="Block-2" position="-0.2499998,3.983355,-5.5" rotation="0,180,0" drag="0.2102477,0.2102477,0.06054352,0.06054352,0.007220801,0.007980288" materials="0" />
+      <Part id="885" partType="Block-2" position="-0.7499998,2.483355,-5.5" rotation="0,0,0" drag="0.0984809,0.0984809,0.004,0.004,0.00544,0.00699787" materials="0" />
+      <Part id="886" partType="Block-3" position="-0.7499996,1.983353,-5.25" rotation="0,180,180" drag="0.007044498,0.007044498,0.4512136,0.4512136,0.01208,0.01285404" materials="0" />
+      <Part id="887" partType="Block-6" position="-1.25,2.483356,-3.5" rotation="90,0,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="888" partType="Block-2" position="-1.25,2.983356,-3.5" rotation="0,0,0" drag="0.007552044,0.007552044,0.0035808,0.0035808,0.2539999,0.05406344" materials="0" />
+      <Part id="889" partType="Block-2" position="-1.25,2.983356,-3" rotation="0,0,0" drag="0.007225744,0.007225744,0.002624,0.002624,0.2539999,0.06058959" materials="0" />
+      <Part id="890" partType="Block-2" position="-1.25,2.983356,-2.5" rotation="0,0,0" drag="0.006826972,0.006826972,0.0036112,0.0036112,0.2539999,0.0605896" materials="0" />
+      <Part id="891" partType="Block-6" position="-1.25,2.483356,-2.5" rotation="90,180,0" drag="0,0,0,0,0,0" materials="0">
+        <AdaptiveBlock.State state="258111" />
+      </Part>
+      <Part id="892" partType="Block-2" position="-1.25,2.483356,-2" rotation="0,0,0" drag="0.005513121,0.005513121,0.005040001,0.005040001,0.25,0.01312512" materials="0" />
+      <Part id="893" partType="Block-2" position="-1.25,1.983353,-2" rotation="0,0,0" drag="0.007253218,0.007253218,0.254,0.254,0.254,0.003050347" materials="0" />
+      <Part id="894" partType="Block-2" position="-0.7499996,1.983353,-2" rotation="0,0,0" drag="0.1299066,0.1299066,0.258,0.258,0.004,0.003872602" materials="0" />
+      <Part id="895" partType="Block-2" position="-1.25,1.983353,-1.5" rotation="0,0,0" drag="0.009061532,0.009061532,0.258,0.258,0.254,0.03988535" materials="0" />
+      <Part id="896" partType="Block-2" position="-1.25,1.983353,-0.9999995" rotation="0,0,0" drag="0.008730128,0.008730128,0.258,0.258,0.254,0.0435861" materials="0" />
+      <Part id="897" partType="Block-2" position="-1.25,1.983353,-0.4999995" rotation="0,0,0" drag="0.008299147,0.008299147,0.258,0.258,0.254,0.04569045" materials="0" />
+      <Part id="898" partType="Block-2" position="-1.25,1.983353,4.768372E-07" rotation="0,0,0" drag="0.007720262,0.007720262,0.258,0.258,0.254,0.045982" materials="0" />
+      <Part id="899" partType="Block-2" position="-1.25,1.983353,0.5000005" rotation="0,0,0" drag="0.006913138,0.006913138,0.258,0.258,0.254,0.04569045" materials="0" />
+      <Part id="900" partType="Block-2" position="-1.25,1.983353,1" rotation="0,0,0" drag="0.005748915,0.005748915,0.258,0.258,0.254,0.0435861" materials="0" />
+      <Part id="901" partType="Block-2" position="-1.25,1.983353,1.5" rotation="0,0,0" drag="0.004030937,0.004030937,0.258,0.258,0.254,0.03988535" materials="0" />
+      <Part id="902" partType="Block-2" position="-1.25,2.483355,1.5" rotation="0,0,0" drag="0.004581002,0.004581002,0.0074,0.0074,0.25,0.02554512" materials="0" />
+      <Part id="903" partType="Block-2" position="-1.25,2.483355,1" rotation="0,0,0" drag="0.005654052,0.005654052,0.007920001,0.007920001,0.2539999,0.05634961" materials="0" />
+      <Part id="904" partType="Block-2" position="-1.25,2.483355,0.5000005" rotation="0,0,0" drag="0.006271383,0.006271383,0.007920001,0.007920001,0.2539999,0.07493533" materials="0" />
+      <Part id="905" partType="Block-2" position="-1.25,2.483355,4.768372E-07" rotation="0,0,0" drag="0.006702036,0.006702036,0.007920001,0.007920001,0.2539999,0.07835668" materials="0" />
+      <Part id="906" partType="Block-2" position="-1.25,2.483355,-0.4999995" rotation="0,0,0" drag="0.007055071,0.007055071,0.007920001,0.007920001,0.2539999,0.07493533" materials="0" />
+      <Part id="907" partType="Block-2" position="-1.25,2.483355,-0.9999995" rotation="0,0,0" drag="0.007358444,0.007358444,0.007920001,0.007920001,0.2539999,0.05634962" materials="0" />
+      <Part id="908" partType="Block-2" position="-1.25,2.483356,-1.5" rotation="0,0,0" drag="0.005398342,0.005398342,0.0074,0.0074,0.25,0.02557536" materials="0" />
+      <Part id="909" partType="Block-2" position="-1.25,2.983356,-1.5" rotation="0,0,0" drag="0.1383973,0.1383973,0.0077328,0.0077328,0.2539999,0.06932247" materials="0" />
+      <Part id="910" partType="Block-2" position="-1.25,2.983356,-2" rotation="0,0,0" drag="0.006271704,0.006271704,0.005094401,0.005094401,0.2539999,0.0540706" materials="0" />
+      <Part id="911" partType="Block-2" position="-1.25,3.483356,-1.5" rotation="0,0,0" drag="0.1466096,0.1466096,0.008409025,0.008409025,0.258,0.09935411" materials="0" />
+      <Part id="912" partType="Block-2" position="-0.7499996,1.983353,-3" rotation="0,180,0" drag="0.05356674,0.05356674,0.258,0.258,8.000001E-05,0.002200814" materials="0" />
+      <Part id="913" partType="Wheel-Resizable-1" position="-1.1,1.983353,-3" rotation="0,-1.001791E-05,0" drag="0.156258,0.156258,0.1748001,0.1748001,0.16,0.15" materials="6,4,4">
+        <ResizableWheel.State turningAngle="0" engineId="0" direction="Reversed" size="2.5" width="1" tire="Street" damper="2" spring="1" enableSuspension="true" enableAutoTraction="true" turningRate="150" brakeTorque="50" slipForwardExtremum="8" slipForwardAsymptote="10" slipSidewaysExtremum="15" slipSidewaysAsymptote="20" tractionForward="1" tractionSideways="1" />
+        <InputController.State activationGroup="0" invert="false" min="-1" max="1" input="Yaw" />
+      </Part>
+      <Part id="914" partType="Block-2" position="-0.2499998,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.09568856,0.09568856,0.0035808,0.004507904" materials="0" />
+      <Part id="915" partType="Block-2" position="-0.7499998,3.983355,5.5" rotation="0,0,0" drag="0.254,0.254,0.1077026,0.1077026,0.00208,0.005126157" materials="0" />
+      <Part id="916" partType="Block-2" position="-0.7499996,1.983353,3" rotation="0,0,0" drag="0.07589626,0.07589626,0.258,0.258,8.000001E-05,0.002134459" materials="0" />
+      <Part id="917" partType="Wheel-Resizable-1" position="-1.1,1.983353,3" rotation="0,-1.001791E-05,0" drag="0.1602382,0.1602382,0.1748001,0.1748001,0.16,0.15" materials="6,4,4">
+        <ResizableWheel.State turningAngle="0" engineId="0" direction="Reversed" size="2.5" width="1" tire="Street" damper="2" spring="1" enableSuspension="true" enableAutoTraction="true" turningRate="150" brakeTorque="50" slipForwardExtremum="8" slipForwardAsymptote="10" slipSidewaysExtremum="15" slipSidewaysAsymptote="20" tractionForward="1" tractionSideways="1" />
+        <InputController.State activationGroup="0" invert="false" min="-1" max="1" input="Yaw" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="1" partB="25" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="24" partB="3" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="36" partB="3" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="838" partB="3" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="14" partB="13" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="20" partB="13" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="189" partB="13" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="803" partB="13" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="19" partB="14" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="186" partB="14" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="140" partB="19" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="21" partB="20" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="802" partB="20" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="22" partB="21" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="25" partB="21" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="53" partB="21" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="801" partB="21" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="23" partB="22" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="841" partB="22" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="24" partB="23" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="55" partB="23" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="840" partB="23" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="839" partB="24" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="25" partB="801" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="37" partB="36" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="837" partB="36" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="38" partB="37" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="836" partB="37" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="39" partB="38" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="835" partB="38" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="75" partB="39" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="834" partB="39" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="54" partB="53" attachPointsA="0" attachPointsB="4" />
+      <Connection partA="56" partB="55" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="141" partB="56" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="356" partB="56" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="74" partB="75" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="76" partB="74" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="99" partB="74" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="832" partB="74" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="833" partB="75" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="77" partB="76" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="831" partB="76" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="100" partB="77" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="97" partB="77" attachPointsA="4" attachPointsB="4" />
+      <Connection partA="830" partB="77" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="105" partB="97" attachPointsA="0" attachPointsB="5" />
+      <Connection partA="106" partB="99" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="101" partB="100" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="829" partB="100" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="104" partB="101" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="563" partB="101" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="828" partB="101" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="107" partB="104" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="562" partB="104" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="143" partB="106" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="350" partB="106" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="144" partB="107" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="559" partB="107" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="139" partB="140" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="285" partB="139" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="284" partB="140" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="142" partB="141" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="288" partB="141" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="449" partB="141" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="287" partB="142" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="145" partB="143" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="289" partB="143" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="447" partB="143" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="146" partB="144" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="290" partB="144" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="672" partB="144" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="293" partB="145" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="291" partB="146" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="187" partB="186" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="189" partB="186" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="188" partB="187" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="190" partB="187" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="191" partB="188" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="237" partB="188" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="190" partB="189" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="822" partB="189" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="191" partB="190" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="823" partB="190" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="824" partB="191" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="420" partB="237" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="285" partB="284" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="423" partB="284" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="286" partB="285" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="287" partB="286" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="288" partB="287" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="450" partB="288" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="293" partB="289" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="448" partB="289" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="291" partB="290" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="444" partB="290" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="292" partB="291" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="293" partB="292" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="351" partB="350" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="447" partB="350" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="352" partB="351" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="455" partB="351" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="353" partB="352" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="454" partB="352" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="354" partB="353" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="453" partB="353" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="355" partB="354" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="452" partB="354" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="356" partB="355" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="451" partB="355" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="449" partB="356" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="421" partB="420" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="422" partB="421" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="425" partB="422" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="424" partB="423" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="427" partB="424" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="428" partB="424" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="426" partB="425" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="555" partB="425" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="427" partB="426" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="429" partB="428" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="430" partB="429" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="431" partB="430" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="432" partB="431" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="433" partB="432" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="445" partB="432" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="434" partB="433" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="435" partB="434" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="436" partB="435" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="437" partB="436" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="438" partB="437" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="439" partB="438" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="446" partB="438" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="440" partB="439" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="441" partB="440" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="442" partB="441" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="443" partB="442" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="444" partB="443" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="678" partB="443" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="450" partB="445" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="448" partB="446" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="448" partB="447" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="455" partB="447" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="450" partB="449" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="451" partB="449" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="452" partB="451" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="453" partB="452" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="454" partB="453" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="455" partB="454" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="556" partB="555" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="914" partB="556" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="561" partB="559" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="562" partB="559" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="672" partB="559" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="673" partB="561" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="674" partB="561" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="563" partB="562" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="565" partB="562" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="566" partB="563" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="827" partB="563" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="800" partB="565" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="799" partB="566" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="673" partB="672" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="674" partB="673" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="675" partB="674" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="800" partB="674" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="676" partB="675" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="677" partB="676" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="679" partB="677" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="680" partB="677" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="679" partB="678" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="681" partB="680" attachPointsA="5" attachPointsB="5" />
+      <Connection partA="884" partB="681" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="800" partB="799" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="825" partB="799" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="801" partB="802" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="841" partB="801" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="916" partB="801" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="802" partB="803" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="804" partB="803" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="822" partB="803" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="805" partB="804" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="821" partB="804" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="806" partB="805" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="807" partB="806" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="809" partB="806" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="808" partB="807" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="808" partB="809" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="847" partB="808" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="810" partB="809" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="811" partB="810" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="812" partB="811" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="855" partB="811" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="812" partB="813" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="813" partB="814" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="814" partB="815" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="915" partB="814" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="815" partB="816" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="816" partB="817" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="817" partB="818" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="818" partB="819" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="819" partB="820" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="824" partB="819" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="820" partB="821" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="823" partB="820" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="822" partB="821" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="823" partB="822" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="824" partB="823" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="825" partB="826" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="885" partB="825" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="826" partB="827" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="827" partB="828" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="827" partB="872" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="828" partB="829" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="871" partB="828" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="829" partB="830" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="830" partB="831" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="912" partB="830" attachPointsA="5" attachPointsB="5" />
+      <Connection partA="831" partB="832" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="832" partB="833" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="894" partB="832" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="833" partB="834" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="834" partB="835" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="835" partB="836" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="836" partB="837" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="837" partB="838" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="839" partB="838" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="839" partB="840" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="840" partB="841" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="842" partB="840" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="843" partB="842" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="844" partB="843" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="901" partB="843" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="845" partB="844" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="848" partB="844" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="902" partB="844" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="846" partB="845" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="846" partB="847" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="848" partB="846" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="849" partB="848" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="849" partB="850" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="849" partB="902" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="850" partB="851" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="851" partB="852" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="856" partB="851" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="852" partB="853" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="853" partB="854" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="854" partB="855" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="857" partB="856" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="858" partB="857" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="859" partB="858" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="860" partB="859" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="861" partB="860" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="862" partB="861" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="911" partB="861" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="863" partB="862" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="864" partB="863" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="865" partB="864" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="866" partB="865" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="867" partB="866" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="882" partB="866" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="867" partB="868" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="868" partB="869" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="888" partB="868" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="869" partB="870" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="887" partB="869" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="876" partB="869" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="870" partB="871" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="873" partB="870" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="872" partB="871" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="872" partB="873" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="886" partB="872" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="874" partB="873" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="876" partB="873" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="875" partB="874" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="877" partB="874" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="875" partB="876" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="877" partB="875" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="878" partB="877" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="885" partB="877" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="879" partB="878" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="880" partB="879" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="881" partB="880" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="883" partB="880" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="881" partB="882" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="884" partB="883" attachPointsA="4" attachPointsB="4" />
+      <Connection partA="885" partB="886" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="888" partB="887" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="889" partB="888" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="890" partB="889" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="890" partB="891" attachPointsA="3" attachPointsB="0" />
+      <Connection partA="890" partB="910" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="891" partB="892" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="892" partB="893" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="910" partB="892" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="908" partB="892" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="893" partB="894" attachPointsA="4" attachPointsB="5" />
+      <Connection partA="895" partB="893" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="896" partB="895" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="908" partB="895" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="897" partB="896" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="907" partB="896" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="898" partB="897" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="906" partB="897" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="899" partB="898" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="905" partB="898" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="900" partB="899" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="904" partB="899" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="901" partB="900" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="903" partB="900" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="902" partB="901" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="903" partB="902" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="904" partB="903" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="905" partB="904" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="906" partB="905" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="907" partB="906" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="907" partB="908" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="909" partB="908" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="909" partB="910" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="909" partB="911" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="913" partB="912" attachPointsA="0" attachPointsB="4" />
+      <Connection partA="914" partB="915" attachPointsA="5" attachPointsB="4" />
+      <Connection partA="917" partB="916" attachPointsA="0" attachPointsB="5" />
+    </Connections>
+    <Bodies>
+      <Body partIds="1,25,21,20,13,14,19,140,139,285,284,423,424,427,426,425,422,421,420,237,188,187,186,189,190,191,824,819,818,817,816,815,814,813,812,811,810,809,806,805,804,803,802,801,841,22,23,24,3,36,37,38,39,75,74,76,77,100,101,104,107,144,146,291,290,444,443,442,441,440,439,438,437,436,435,434,433,432,431,430,429,428,445,450,288,141,56,55,356,355,354,353,352,351,350,106,99,143,145,293,289,448,446,447,455,454,453,452,451,449,292,142,287,286,678,679,677,676,675,674,561,559,562,563,566,799,800,565,825,826,827,828,829,830,831,832,833,834,835,836,837,838,839,840,842,843,844,845,846,847,808,807,848,849,850,851,852,853,854,855,856,857,858,859,860,861,862,863,864,865,866,867,868,869,870,871,872,873,874,875,876,877,878,879,880,881,882,883,884,681,680,885,886,887,888,889,890,891,892,893,894,895,896,897,898,899,900,901,902,903,904,905,906,907,908,909,910,911,912,672,673,97,916,822,821,820,823,915,914,556,555,53" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="54" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="105" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="913" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="917" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+    <Material color="2E2E2E" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0.3" m="0.5" s="0.83" />
+    <Material color="001F7F" r="0.3" m="0.5" s="0.83" />
+    <Material color="AA2A00" r="0.15" m="0.5" s="0.7" />
+    <Material color="3F3F3F" r="0" m="0.65" s="0.08" />
+    <Material color="5C0000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="FFF0F0" r="0" m="0.65" s="0.08" />
+    <Material color="FF0F0F" r="0" m="0.65" s="0.08" />
+    <Material color="AAAAAA" r="0" m="0.65" s="0.08" />
+    <Material color="3F3F3F" r="0.15" m="0.5" s="0.7" />
+    <Material color="ABABAB" r="0" m="0.65" s="0.08" />
+    <Material color="446677" r="0" m="0.65" s="0.08" />
+    <Material color="FF1143" r="0" m="0.65" s="0.08" />
+    <Material color="FF6A12" r="0" m="0.65" s="0.08" />
+    <Material color="000000" r="0" m="0.65" s="0.08" />
+    <Material color="FFFFFF" r="0" m="0.65" s="0.08" />
+    <Material color="1E1E1E" r="0" m="0.65" s="0.08" />
+    <Material color="D0D0D0" r="0" m="0.65" s="0.08" />
+  </Theme>
+</Aircraft>

@@ -1,0 +1,1914 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Aircraft name="TLZ Airliner Bird Aurora" url="oU6qk1" theme="Custom" size="41.74997,5.503441,44.4375" boundsMin="-20.87498,1.720854,-22.21875" xmlVersion="3">
+  <Assembly>
+    <Parts>
+      <Part id="1" partType="Cockpit-1" position="-9.747482E-07,4.911795,16.46877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="7,0">
+        <Cockpit.State primaryCockpit="True" />
+      </Part>
+      <Part id="5" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,13.71877" rotation="0,0,0" drag="0.09999995,0.09999995,0.02,0.02,0.1615786,0.1615784" materials="8">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,16.21878" rotation="0,0,0" drag="0.1004078,0.1004078,0.0204,0.0204,0.1635768,0.1635767" materials="7">
+        <FuelTank.State fuel="1170.51636" capacity="1170.51636" />
+        <Fuselage.State frontScale="3,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="9" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,18.71875" rotation="0,0,0" drag="0.3004309,0.3004309,4.396035,4.396035,4.336035,4.33604" materials="6">
+        <FuelTank.State fuel="3834.6355" capacity="3834.6355" />
+        <Fuselage.State frontScale="3.5,3.5" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="10" partType="Fuselage-Body-1" position="-9.747482E-07,5.349295,18.71875" rotation="0,0,0" drag="0.258581,0.258581,0.004800001,0.004800001,0.06599996,0.06599996" materials="6">
+        <FuelTank.State fuel="784.7377" capacity="784.7377" />
+        <Fuselage.State frontScale="2.5,1" rearScale="3,1.5" offset="0,0.25,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="12" partType="Fuselage-Cone-1" position="-9.747482E-07,4.536795,21.09375" rotation="0,180,0" drag="1.30997,1.30997,2.223809,2.223809,2.269583,2.269593" materials="5">
+        <FuelTank.State fuel="990.2344" capacity="990.2344" />
+        <Fuselage.State frontScale="3.5,3.5" rearScale="0,0" offset="0,-0.5,4.5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="13" partType="Fuselage-Cone-1" position="-9.747482E-07,4.849295,21.03125" rotation="0,180,0" drag="0,0,0,0,0,0" materials="3">
+        <FuelTank.State fuel="325.846375" capacity="325.846375" />
+        <Fuselage.State frontScale="3,2" rearScale="0,0" offset="0,-0.25,3.25" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="14" partType="Fuselage-Body-1" position="-9.747482E-07,5.099295,20.09375" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,2" rearScale="0,0" offset="0,0.75,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="16" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,6.218669" rotation="0,0,0" drag="0.1439921,0.1439921,0.03614976,0.03614976,1.696859,1.696856" materials="9">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="18" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,3.718665" rotation="0,0,0" drag="0.09999766,0.09999766,0.005212801,0.005212801,0.161578,0.1615778" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="20" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,3.718665" rotation="0,0,0" drag="0.1344686,0.1344686,4.649311,4.649311,2.393483,2.393483" materials="10">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="453.5929" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="21" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,1.218671" rotation="0,0,0" drag="0.137988,0.137988,0.00239616,0.00239616,1.580984,1.580984" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="22" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-1.281327" rotation="0,0,0" drag="0.0999935,0.0999935,0.01637184,0.01637184,0.1430638,0.1430638" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="23" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-3.781331" rotation="0,0,0" drag="0.09986925,0.09986925,0.01983296,0.01983296,0.1178994,0.1178994" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="25" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,-1.281327" rotation="0,0,0" drag="0.138368,0.138368,4.738381,4.738381,1.994887,1.994887" materials="11">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="453.5929" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="27" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-6.281331" rotation="0,0,0" drag="0.09947766,0.09947766,0.02,0.02,0.1181012,0.1181012" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="28" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-8.78133" rotation="0,0,0" drag="0.09886739,0.09886739,0.02,0.02,0.1392959,0.1392958" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="29" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-11.28122" rotation="0,0,0" drag="0.09820264,0.09820264,0.02,0.02,0.1573581,0.1573581" materials="13">
+        <FuelTank.State fuel="1269.53125" capacity="1269.53125" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="30" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,-13.78122" rotation="0,0,0" drag="0.0975544,0.0975544,0.02,0.02,0.1614273,0.1614273" materials="13">
+        <FuelTank.State fuel="1269.53125" capacity="1269.53125" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="33" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,-8.78133" rotation="0,0,0" drag="0.1528984,0.1528984,4.773082,4.773082,4.118387,4.118387" materials="12">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="34" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,-11.28122" rotation="0,0,0" drag="0.1487422,0.1487422,4.795647,4.795647,4.206167,4.20617" materials="13">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="35" partType="Fuselage-Body-1" position="-9.747482E-07,4.724295,-13.78122" rotation="0,0,0" drag="0.1535248,0.1535248,4.691566,4.691566,3.172292,3.982782" materials="13">
+        <FuelTank.State fuel="4098.071" capacity="4098.071" />
+        <Fuselage.State frontScale="4,4" rearScale="4,3.5" offset="0,0.25,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="50" partType="Fuselage-Body-1" position="-9.747482E-07,5.349295,-16.28125" rotation="0,0,0" drag="0.09701695,0.09701695,0.01064,0.01064,0.08799966,0.08799963" materials="14">
+        <FuelTank.State fuel="1269.53125" capacity="1269.53125" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,-0.25,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="51" partType="Fuselage-Body-1" position="-9.747482E-07,5.224295,-18.78125" rotation="0,0,0" drag="0.09114501,0.09114501,0.022,0.022,0.3988643,0.3988647" materials="14">
+        <FuelTank.State fuel="1170.51636" capacity="1170.51636" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3,1.5" offset="0,-0.25,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="58" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,6.218669" rotation="0,0,0" drag="0.1198329,0.1198329,4.57272,4.57272,1.424757,1.424756" materials="9">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="59" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,8.718676" rotation="0,0,0" drag="0.1549851,0.1549851,4.702518,4.702518,2.955124,2.955129" materials="9">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="60" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,8.718676" rotation="0,0,0" drag="0.1399989,0.1399989,0.05999995,0.05999995,1.544688,1.544684" materials="9">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="61" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,11.21877" rotation="0,0,0" drag="0.1903601,0.1903601,4.784364,4.784364,4.323407,4.260912" materials="8">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="62" partType="Fuselage-Body-1" position="-9.747482E-07,5.411795,11.21877" rotation="0,0,0" drag="0.09999995,0.09999995,0.02,0.02,0.1615786,0.1615784" materials="8">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3.5,1.5" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="72" partType="FuelTank-1" position="-9.747482E-07,4.911795,15.21877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="73" partType="FuelTank-1" position="-9.747482E-07,4.911795,15.71877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="74" partType="FuelTank-1" position="-9.747482E-07,4.411795,15.21877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="75" partType="FuelTank-1" position="-9.747482E-07,4.411795,15.71877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="78" partType="Fuselage-Body-1" position="-0.009719988,2.870354,16.96249" rotation="90,0,0" drag="0.1086712,0.1086712,0.02,0.02,0.013,0.0126" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,2.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="79" partType="Fuselage-Body-1" position="-0.009719988,2.557854,16.71252" rotation="0,9.659346E-06,0" drag="0.01096,0.01096,0.0327432,0.0327432,0.008,0.007800001" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0.75,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="82" partType="Wheel-1" position="-0.009719988,2.057854,16.96249" rotation="0,0,0" drag="0.152,0.152,0.154,0.154,0.152,0.152" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="true" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="83" partType="JointRotator-1" position="-9.747482E-07,3.911793,14.71877" rotation="0,0,270" drag="0,0,0,0,0,0" materials="0,6">
+        <InputController.State activationGroup="1" invert="true" min="-1" max="1" input="VTOL" />
+        <JointRotator.State range="90" speed="0.3" />
+      </Part>
+      <Part id="84" partType="Wing-2" position="-0.009719988,3.932853,16.96249" rotation="0,0,180" drag="0,0,0,0,0,0" centerOfMass="2.116038E-10,0.2154822,0" materials="4,4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="0.1" rootTrailingOffset="0.1" tipLeadingOffset="0.05" tipTrailingOffset="0.05" tipPosition="0,0.5,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="86" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,13.46877" rotation="0,0,0" drag="0.1552544,0.1552544,3.818462,3.818462,3.596225,3.596229" materials="8">
+        <FuelTank.State fuel="3515.625" capacity="3515.625" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,4" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="88" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,16.71877" rotation="0,0,0" drag="0.11948,0.11948,2.727564,2.727564,2.50532,2.505322" materials="7">
+        <FuelTank.State fuel="2636.71875" capacity="2636.71875" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,3" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="89" partType="Fuselage-Body-1" position="-0.009719988,3.057854,16.71252" rotation="0,180,0" drag="0.016,0.016,0.0254,0.0254,0.06890835,0.06890836" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,1.25,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="94" partType="FuelTank-1" position="-9.747482E-07,4.911795,14.71877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="95" partType="FuelTank-1" position="-9.747482E-07,4.411795,14.71877" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="96" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,15.21877" rotation="0,0,0" drag="0.1169885,0.1169885,2.863847,2.863847,2.681544,2.681547" materials="7">
+        <FuelTank.State fuel="2636.71875" capacity="2636.71875" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,3" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="268" partType="FuelTank-1" position="-9.747482E-07,4.911795,-4.781332" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="269" partType="FuelTank-1" position="-9.747482E-07,4.911795,-4.281331" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="270" partType="FuelTank-1" position="-9.747482E-07,4.786795,-3.781331" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="271" partType="FuelTank-1" position="-9.747482E-07,4.786795,-3.281331" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="273" partType="FuelTank-1" position="-9.747482E-07,4.911795,-5.281332" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="274" partType="FuelTank-1" position="-9.747482E-07,4.911795,-5.781332" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="275" partType="FuelTank-1" position="-2.107345E-08,4.786795,-6.281331" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="276" partType="FuelTank-1" position="-2.107345E-08,4.786795,-6.781331" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="278" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,-3.781334" rotation="0,0,0" drag="0.1449315,0.1449315,4.772985,4.772985,2.948588,2.948588" materials="11">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="442" partType="Fuselage-Body-1" position="-9.747482E-07,5.099295,-20.28125" rotation="0,0,0" drag="0.01065695,0.01065695,0.008400001,0.008400001,0.06938059,0.0693806" materials="14">
+        <FuelTank.State fuel="234.103256" capacity="234.103256" />
+        <Fuselage.State frontScale="3.5,1.5" rearScale="3,1.5" offset="0,0.25,1" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="498" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,1.218668" rotation="0,0,0" drag="0.09487642,0.09487642,4.984854,4.984854,0.6841913,0.6841913" materials="10">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="453.5929" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="562" partType="FuelTank-1" position="-9.747482E-07,4.911795,-7.281335" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="563" partType="Fuselage-Body-1" position="-9.747482E-07,4.661795,-6.281335" rotation="0,0,0" drag="0.148173,0.148173,4.784364,4.784364,3.482441,3.482441" materials="12">
+        <FuelTank.State fuel="4394.53125" capacity="4394.53125" />
+        <Fuselage.State frontScale="4,4" rearScale="4,4" offset="0,0,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="3673" partType="FuelTank-1" position="-9.747482E-07,4.786795,-17.09375" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="3674" partType="FuelTank-1" position="-9.747482E-07,4.786795,-16.59375" rotation="0,0,0" drag="0,0,0,0,0,0" materials="0,3,4">
+        <FuelTank.State fuel="-4000" capacity="-4000" />
+      </Part>
+      <Part id="5310" partType="Camera-1" position="-9.142117E-07,4.849295,21.78125" rotation="0,0,0" drag="0,0,0,0,0,0" materials="3,-3">
+        <CameraVantage.State viewMode="FirstPerson" autoOrient="true" lookAtCockpit="false" autoZoomOnCockpit="false" autoCenterCamera="true" />
+      </Part>
+      <Part id="7177" partType="Fuselage-Cone-1" position="-1.035631E-06,5.161795,-20.90625" rotation="0,9.659346E-06,0" drag="0.02376378,0.02376378,0.67185,0.67185,0.07150432,0.07150427" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,1.5" rearScale="0,0" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7178" partType="Fuselage-Body-1" position="-9.747482E-07,4.849295,-16.28122" rotation="0,0,0" drag="0.1243748,0.1243748,4.566374,4.566374,2.861298,2.861302" materials="14">
+        <FuelTank.State fuel="3204.75146" capacity="3204.75146" />
+        <Fuselage.State frontScale="4,3.5" rearScale="4,2.5" offset="0,0.25,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7179" partType="Fuselage-Body-1" position="-9.747482E-07,4.974295,-18.78122" rotation="0,0,0" drag="0.05718172,0.05718172,4.265036,4.265036,0.350927,0.3509275" materials="14">
+        <FuelTank.State fuel="1911.94653" capacity="1911.94653" />
+        <Fuselage.State frontScale="4,2.5" rearScale="3.5,1.5" offset="0,0.25,5" deadWeight="0" buoyancy="0.3" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7341" partType="Fuselage-Body-1" position="-9.747482E-07,5.224295,-20.28125" rotation="0,0,0" drag="0.009773057,0.009773057,0.7547172,0.7547172,0.03962403,0.03962403" materials="14">
+        <FuelTank.State fuel="156.947525" capacity="156.947525" />
+        <Fuselage.State frontScale="3,1.5" rearScale="2.5,1" offset="0,0.25,1" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7503" partType="NoseCone-3" position="1.25,4.974295,-0.343825" rotation="0,90.00003,269.9999" drag="0.003637813,0.003637813,0.00196,0.00196,0,0.0400754" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7504" partType="NoseCone-3" position="1.25,4.974295,-0.7188251" rotation="0,90.00003,269.9999" drag="0.006966931,0.006966931,0.004,0.004,0,0.04236855" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7505" partType="NoseCone-3" position="1.25,4.974295,-2.281328" rotation="0,90.00003,269.9999" drag="0.005622878,0.005622878,0.00392,0.00392,0,0.03877665" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7506" partType="NoseCone-3" position="1.25,4.849295,-1.406327" rotation="0,90.00003,269.9999" drag="0.01456428,0.01456428,0.014448,0.014448,0,0.1830691" materials="8">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7507" partType="Fuselage-Body-1" position="1.187498,4.224294,-2.093822" rotation="0,90.00008,0" drag="0.05800456,0.05800456,0.1294653,0.1294653,0.0004206548,0.005061281" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,1" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7508" partType="Fuselage-Body-1" position="2.374998,4.224294,-2.093822" rotation="0,90.00008,0" drag="0.3918574,0.3918574,0.9192566,0.9192566,0.01024904,0.05051466" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7509" partType="Fuselage-Body-1" position="4.249998,4.224294,-2.093825" rotation="0,90.00008,0" drag="0.3564764,0.3564764,0.7597605,0.7597605,0.0125974,0.03685983" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7510" partType="JointRotator-1" position="4.937499,4.224294,-1.593828" rotation="90,0,0" drag="0.01156664,0.01156664,0.04854859,0.04854859,0.03210006,0.005692493" materials="11,11">
+        <InputController.State activationGroup="1" invert="false" min="-1" max="1" input="VTOL" />
+        <JointRotator.State range="90" speed="0.3" />
+      </Part>
+      <Part id="7511" partType="Fuselage-Body-1" position="4.937499,4.224294,-1.156327" rotation="0,180,0" drag="0.02861732,0.02861732,0.05323735,0.05323735,0.004597019,0.0009571293" materials="1">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7512" partType="Fuselage-Body-1" position="4.937499,3.474293,-1.156327" rotation="90,180,0" drag="0.1649632,0.1649632,0.01269933,0.01269933,0.07050275,0.06335811" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,2.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7513" partType="Fuselage-Body-1" position="4.937499,2.724293,-1.156327" rotation="-1.343525E-13,9.659346E-06,180" drag="0,0,0,0,0,0" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7514" partType="Fuselage-Body-1" position="4.937499,2.724293,-0.9063261" rotation="-1.343525E-13,9.659346E-06,180" drag="0,0,0,0,0,0" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7515" partType="Fuselage-Body-1" position="4.937499,2.474293,-0.7813261" rotation="270,0,0" drag="0.04517065,0.04517065,0.07849999,0.07849999,0.009393317,0.01209798" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,1.5" offset="0,-0.5,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7516" partType="Wheel-1" position="4.937499,2.099293,-0.9063261" rotation="0,9.659346E-06,0" drag="0.1517998,0.1517998,0.154,0.154,0.1518243,0.1519998" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="false" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7517" partType="Wheel-1" position="4.937499,2.099293,-0.4063261" rotation="0,9.659346E-06,0" drag="0.1519999,0.1519999,0.154,0.154,0.1518057,0.1519952" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="false" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7518" partType="Inlet-1" position="5.187499,2.724293,-1.156327" rotation="0,0,270" drag="0.1417108,0.1417108,0.07973999,0.07973999,0.00963909,0.2348948" materials="10,10,-3" />
+      <Part id="7519" partType="Inlet-1" position="4.687499,2.724293,-1.156327" rotation="0,0,90.00008" drag="0.1412362,0.1412362,0.14072,0.14072,0.180906,0.009106137" materials="10,10,-3" />
+      <Part id="7520" partType="Fuselage-Body-1" position="4.937499,2.724293,-1.406327" rotation="270,180,0" drag="0.0623675,0.0623675,0.0012,0.0012,0.001344931,0.001524798" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7521" partType="Fuselage-Body-1" position="4.937499,2.474293,-1.531328" rotation="270,180,0" drag="0.0126528,0.0126528,0.07849999,0.07849999,0.05874724,0.07326876" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,1.5" offset="0,-0.5,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7522" partType="Wheel-1" position="4.937499,2.099293,-1.406327" rotation="0,180,0" drag="0.1517501,0.1517501,0.154,0.154,0.1518468,0.152" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="true" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7523" partType="Wheel-1" position="4.937499,2.099293,-1.906328" rotation="0,180,0" drag="0.1516732,0.1516732,0.154,0.154,0.1518839,0.152" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="true" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7524" partType="Wing-2" position="0.9999989,4.286795,-0.5313261" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="1.752058E-07,2.530268,2.0625" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="6.5" rootTrailingOffset="0.25" tipLeadingOffset="2.5" tipTrailingOffset="0" tipPosition="0,6.25,-0.25" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7525" partType="Wing-2" position="0.9999989,4.411795,-0.9063261" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-2.235174E-07,1.875,0" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="1" tipLeadingOffset="1" tipTrailingOffset="1" tipPosition="0,3.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7526" partType="Wing-2" position="4.75,4.411795,-0.9063261" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-8.940697E-08,0.7500001,0.25" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="0.5" tipLeadingOffset="1" tipTrailingOffset="0.5" tipPosition="0,1.5,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7527" partType="NoseCone-3" position="1.25,4.974295,-2.656336" rotation="0,90.00003,269.9999" drag="0.003245827,0.003245827,0.002,0.002,0,0.03367012" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7528" partType="NoseCone-3" position="1.25,4.974295,0.03117204" rotation="0,90.00003,269.9999" drag="0.006796967,0.006796967,0.002,0.002,0,0.0538485" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7529" partType="Wing-2" position="0.9999989,4.036794,-0.8438261" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-2.235174E-07,1.875,0" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="1" tipLeadingOffset="1" tipTrailingOffset="1" tipPosition="0,3.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7530" partType="NoseCone-3" position="1.25,4.974295,-3.031334" rotation="0,90.00003,269.9999" drag="0.006324919,0.006324919,0.004,0.004,0,0.03733721" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7531" partType="NoseCone-3" position="1.25,4.974295,-3.406334" rotation="0,90.00003,269.9999" drag="0.003089628,0.003089628,0.002,0.002,0,0.03335437" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7532" partType="NoseCone-3" position="1.25,4.974295,-3.781334" rotation="0,90.00003,269.9999" drag="0.00608432,0.00608432,0.004,0.004,0,0.03908943" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7533" partType="NoseCone-3" position="1.25,4.974295,-4.156332" rotation="0,90.00003,269.9999" drag="0.003008342,0.003008342,0.002,0.002,0,0.03554453" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7534" partType="NoseCone-3" position="1.25,4.974295,-4.531335" rotation="0,90.00003,269.9999" drag="0.005971494,0.005971494,0.004,0.004,0,0.04233474" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7535" partType="NoseCone-3" position="1.25,4.974295,-4.906335" rotation="0,90.00003,269.9999" drag="0.002969297,0.002969297,0.002,0.002,0,0.03865323" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7536" partType="NoseCone-3" position="1.25,4.974295,-5.281335" rotation="0,90.00003,269.9999" drag="0.005916715,0.005916715,0.004,0.004,0,0.0461809" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7537" partType="NoseCone-3" position="1.25,4.974295,-5.656335" rotation="0,90.00003,269.9999" drag="0.002950645,0.002950645,0.004,0.004,0,0.04366296" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7538" partType="NoseCone-3" position="1.25,4.974295,-7.156335" rotation="0,90.00003,269.9999" drag="0.003069183,0.003069183,0.004,0.004,0,0.05047715" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7539" partType="NoseCone-3" position="1.25,4.849295,-6.406335" rotation="0,90.00003,269.9999" drag="0.01344384,0.01344384,0.02,0.02,0,0.3081493" materials="7">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7540" partType="NoseCone-3" position="1.25,4.974295,-7.531335" rotation="0,90.00003,269.9999" drag="0.006082821,0.006082821,0.004,0.004,0,0.05708505" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7541" partType="NoseCone-3" position="1.25,4.974295,-7.906335" rotation="0,90.00003,269.9999" drag="0.003025381,0.003025381,0.002,0.002,0,0.05152855" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7542" partType="NoseCone-3" position="1.25,4.974295,-8.281334" rotation="0,90.00003,269.9999" drag="0.006033915,0.006033915,0.004,0.004,0,0.05983372" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7543" partType="NoseCone-3" position="1.25,4.974295,-8.656334" rotation="0,90.00003,269.9999" drag="0.003011989,0.003011989,0.002,0.002,0,0.05387581" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7544" partType="NoseCone-3" position="1.25,4.974295,-9.03133" rotation="0,90.00003,269.9999" drag="0.006019652,0.006019652,0.004,0.004,0,0.06227" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7545" partType="NoseCone-3" position="1.25,4.974295,-9.40632" rotation="0,90.00003,269.9999" drag="0.003009222,0.003009222,0.002,0.002,0,0.05594388" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7546" partType="NoseCone-3" position="1.25,4.974295,-9.78132" rotation="0,90.00003,269.9999" drag="0.006020124,0.006020124,0.004,0.004,0,0.06433203" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7547" partType="NoseCone-3" position="1.25,4.974295,-10.15632" rotation="0,90.00003,269.9999" drag="0.003011782,0.003011782,0.002,0.002,0,0.05763368" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7548" partType="NoseCone-3" position="1.25,4.974295,-10.53127" rotation="0,90.00003,269.9999" drag="0.006028727,0.006028727,0.006,0.006,0,0.06239164" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7549" partType="NoseCone-3" position="1.25,4.849295,-11.34372" rotation="0,90.00003,269.9999" drag="0.01373385,0.01373385,0.018,0.018,0,0.3775988" materials="6">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7550" partType="NoseCone-3" position="1.25,4.974295,-12.09372" rotation="0,90.00003,269.9999" drag="0.006107878,0.006107878,0.004,0.004,0,0.06732932" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7551" partType="NoseCone-3" position="1.25,4.974295,-12.46872" rotation="0,90.00003,269.9999" drag="0.0030536,0.0030536,0.002,0.002,0,0.05985579" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7552" partType="NoseCone-3" position="1.249999,4.974295,-12.84372" rotation="0,90.00003,269.9999" drag="0.006111158,0.006111158,0.004,0.004,0,0.06753109" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7553" partType="NoseCone-3" position="1.249999,4.974295,-13.21872" rotation="0,90.00003,269.9999" drag="0.003058495,0.003058495,0.002,0.002,0,0.05998168" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7554" partType="NoseCone-3" position="1.249999,4.974295,-13.59372" rotation="0,90.00003,269.9999" drag="0.006124354,0.006124354,0.006,0.006,0,0.06401061" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7555" partType="NoseCone-3" position="1.249999,4.849295,-14.34372" rotation="0,90.00003,269.9999" drag="0.0139271,0.0139271,0.02,0.02,0,0.3836907" materials="6">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7556" partType="JointRotator-1" position="0.499999,5.161795,-20.78125" rotation="0,0,269.9999" drag="0.0003879981,0.0003879981,0.0645,0.0645,0,0.1006299" materials="14,14">
+        <InputController.State activationGroup="0" invert="true" min="-1" max="1" input="Throttle" />
+        <JointRotator.State range="45" speed="0.5" />
+      </Part>
+      <Part id="7557" partType="Fuselage-Body-1" position="1.437501,5.161795,-19.34375" rotation="0,90.00008,0" drag="0.08844662,0.08844662,3.20083,3.20083,0.1363905,0.1181406" materials="14">
+        <FuelTank.State fuel="371.09375" capacity="371.09375" />
+        <Fuselage.State frontScale="5,0.5" rearScale="5,0.5" offset="-0.5,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,0,0,0,0" />
+      </Part>
+      <Part id="7558" partType="Wing-2" position="0.5624999,5.161795,-20.21875" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="2.123802E-07,2.218426,0.84375" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Semi-Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="4" rootTrailingOffset="0.125" tipLeadingOffset="1" tipTrailingOffset="0.5" tipPosition="0,5.5,-0.5" hingeDistance="0.4" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="0" end="15" inputId="Pitch" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7559" partType="Fuselage-Body-1" position="6.187501,5.161795,-20.46875" rotation="0,0,0" drag="0.02321774,0.02321774,0.2599999,0.2599999,0.05497088,0.0995785" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7560" partType="Fuselage-Body-1" position="5.625001,5.161795,-20.28125" rotation="0,90.00008,0" drag="0.0328663,0.0328663,0.8038827,0.8038827,0.04077139,0.04519199" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,0.5" rearScale="4,0.5" offset="-0.75,0,1.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7561" partType="Fuselage-Body-1" position="3.937501,5.161795,-19.78125" rotation="0,90.00008,0" drag="0.1314417,0.1314417,3.614029,3.614029,0.1422254,0.1750232" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,0.5" rearScale="5,0.5" offset="-1.25,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7562" partType="Fuselage-Body-1" position="3.874999,5.161795,-18.46875" rotation="0,90.00008,0" drag="0.2038823,0.2038823,1.314057,1.314057,0.1178085,0.225828" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="2,0.5" offset="-2.5,0,4.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7563" partType="Fuselage-Body-1" position="1.4375,5.161795,-17.34375" rotation="0,90.00008,0" drag="0.1934696,0.1934696,2.556607,2.556607,0.05780706,0.2218078" materials="14">
+        <FuelTank.State fuel="244.352631" capacity="244.352631" />
+        <Fuselage.State frontScale="2,0.5" rearScale="5,0.5" offset="-2,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7564" partType="Fuselage-Body-1" position="5.562497,5.161795,-19.40625" rotation="0,90.00008,0" drag="0.05490989,0.05490989,0.09679811,0.09679811,0.03447421,0.08008783" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="-1.25,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7565" partType="Fuselage-Cone-1" position="6.000001,5.161795,-19.59375" rotation="0,180,0" drag="0.02333687,0.02333687,0.05329305,0.05329305,0.0107426,0.014" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0.75,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7566" partType="Wing-3" position="6.187501,5.286795,-20.46875" rotation="0,0,0" drag="0,0,0,0,0,0" centerOfMass="0,0.6443582,-0.9375" materials="14,14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="1.5" tipLeadingOffset="0.25" tipTrailingOffset="0.25" tipPosition="0,1.75,-1.5" hingeDistance="0.4" allowControlSurfaces="true" fuelPercentage="0" />
+      </Part>
+      <Part id="7567" partType="Fuselage-Cone-1" position="6.187501,5.224295,-21.71875" rotation="0,9.659346E-06,0" drag="0.02917801,0.02917801,0.1712046,0.1712046,0.2132615,0.2026795" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0.25,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,2,2" />
+      </Part>
+      <Part id="7568" partType="Wing-2" position="0.7499989,5.161795,-20.78125" rotation="0,0,269.9999" drag="0,0,0,0,0,0" centerOfMass="-1.406902E-07,1.09835,-0.125" materials="14,14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="0.25" rootTrailingOffset="0.25" tipLeadingOffset="0" tipTrailingOffset="0" tipPosition="0,3.75,-0.25" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7569" partType="Wing-3" position="0.4999989,5.036795,-15.78125" rotation="0,0,180" drag="0,0,0,0,0,0" centerOfMass="2.981219E-09,0.375,0" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="0.75" tipLeadingOffset="0.75" tipTrailingOffset="0.75" tipPosition="0,0.75,0" hingeDistance="0.8" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="0" end="1" inputId="Yaw" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7570" partType="Wing-2" position="0.9999989,4.224295,2.156169" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="1.893782E-07,2.411381,-0.625" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="4" rootTrailingOffset="3" tipLeadingOffset="2.5" tipTrailingOffset="0" tipPosition="0,6,-3" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0" />
+      </Part>
+      <Part id="7571" partType="Fuselage-Body-1" position="5.5625,4.224294,0.4061703" rotation="0,90.00008,0" drag="0.01546124,0.01546124,0.4984805,0.4984805,0.002368511,0.007739007" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,1" rearScale="3,1" offset="-1.25,0,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7572" partType="Fuselage-Body-1" position="6.125,4.224294,-1.218827" rotation="0,90.00008,0" drag="0.106812,0.106812,1.725343,1.725343,0.0776698,0.0701735" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="5,1" rearScale="5,1" offset="-0.5,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7573" partType="Fuselage-Body-1" position="7.937489,4.349295,-1.781331" rotation="0,90.00008,0" drag="0.1144584,0.1144584,2.281623,2.281623,0.05463042,0.3158632" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="5,1" offset="-1.75,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7574" partType="Fuselage-Body-1" position="7.937489,4.349295,0.156172" rotation="0,90.00008,0" drag="0.8581476,0.8581476,3.320837,3.320837,0.0317312,0.6334773" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="4.5,1" offset="-2.5,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7575" partType="Fuselage-Body-1" position="6.125,4.224294,1.406168" rotation="0,90.00008,0" drag="0.8003379,0.8003379,0.8827339,0.8827339,0.01834055,0.4211444" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="-2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7576" partType="Fuselage-Body-1" position="4.37499,4.224295,2.656178" rotation="0,90.00008,0" drag="0.8068795,0.8068795,3.430103,3.430103,0.01139851,0.4634384" materials="10">
+        <FuelTank.State fuel="697.2656" capacity="697.2656" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="-2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7577" partType="Fuselage-Body-1" position="2.624993,4.224295,3.906179" rotation="0,90.00008,0" drag="0.711773,0.711773,0.6184059,0.6184059,0.01393531,0.403217" materials="10">
+        <FuelTank.State fuel="697.2656" capacity="697.2656" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="-2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7578" partType="Fuselage-Body-1" position="2.249999,4.224295,2.281169" rotation="0,90.00008,0" drag="0.1077998,0.1077998,1.8125,1.8125,0.001521593,0.09425799" materials="10">
+        <FuelTank.State fuel="659.1171" capacity="659.1171" />
+        <Fuselage.State frontScale="1.5,1" rearScale="5,1" offset="-1.75,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7579" partType="Fuselage-Body-1" position="2.249997,4.224295,0.7186711" rotation="0,90.00008,0" drag="0.08126435,0.08126435,2.8425,2.8425,0.005696926,0.06258284" materials="11">
+        <FuelTank.State fuel="644.53125" capacity="644.53125" />
+        <Fuselage.State frontScale="3,1" rearScale="3,1" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7580" partType="Fuselage-Body-1" position="3.999997,4.224295,0.7186692" rotation="0,90.00008,0" drag="0.04629222,0.04629222,1.510558,1.510558,0.004107996,0.02514133" materials="11">
+        <FuelTank.State fuel="257.8125" capacity="257.8125" />
+        <Fuselage.State frontScale="3,1" rearScale="3,1" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7581" partType="Fuselage-Body-1" position="4,4.224294,1.656168" rotation="0,90.00008,0" drag="0.02313466,0.02313466,0.375,0.375,0.0007263123,0.01407388" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0,1" rearScale="1.5,1" offset="-0.75,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7582" partType="AirBrake-1" position="3.874996,4.474295,0.218668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7583" partType="AirBrake-1" position="4.374996,4.474295,0.218668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7584" partType="AirBrake-1" position="1.874996,4.474295,0.218671" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7585" partType="AirBrake-1" position="2.374996,4.474295,0.21867" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7586" partType="AirBrake-1" position="2.874996,4.474295,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7587" partType="Fuselage-Body-1" position="2.812498,3.474294,1.468668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7588" partType="Fuselage-Body-1" position="2.812492,3.474294,3.093678" rotation="0,0,0" drag="0.005331883,0.005331883,0.06081343,0.06081343,0.008793199,0.1885103" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7589" partType="Engine-Jet-6" position="2.374999,3.474294,2.343668" rotation="0,0,0" drag="0.06118976,0.06118976,1.306001,1.306001,0.07829552,0.4979419" materials="10,10,10,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7590" partType="Wing-2" position="1.9375,3.036794,2.343669" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-4.470348E-08,0.3750001,0.375" materials="10,10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="false" rootLeadingOffset="2" rootTrailingOffset="1.25" tipLeadingOffset="2" tipTrailingOffset="1.25" tipPosition="0,0.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7591" partType="Engine-Jet-6" position="2.374993,3.474294,4.343679" rotation="0,0,0" drag="0.4749545,0.4749545,0.7779996,0.7779996,0.01384646,1.338097" materials="1,1,1,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7592" partType="Fuselage-Cone-1" position="2.812492,3.724294,4.531178" rotation="0,180,0" drag="0.1760495,0.1760495,0.07795742,0.07795742,0.06056029,0.3155441" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7593" partType="Fuselage-Cone-1" position="1.9375,3.724294,4.843669" rotation="0,180,0" drag="0.1197691,0.1197691,0.1267056,0.1267056,0.1361213,0.2590169" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7594" partType="Fuselage-Body-1" position="1.9375,3.474294,3.093669" rotation="0,0,0" drag="0.05119512,0.05119512,0.506634,0.506634,0.5173008,0.1892835" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7595" partType="Fuselage-Body-1" position="1.937498,3.474294,1.468669" rotation="0,0,0" drag="0.02075684,0.02075684,0.1927956,0.1927956,0.1569156,0.006092358" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7596" partType="Fuselage-Cone-1" position="2.374993,3.474294,4.468679" rotation="0,180,0" drag="0.05260165,0.05260165,0.06419741,0.06419741,0.01564902,0.003199998" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7597" partType="Fuselage-Body-1" position="1.312495,4.224295,4.906181" rotation="0,90.00008,0" drag="0.3513159,0.3513159,1.393153,1.393153,0.00762574,0.319065" materials="10">
+        <FuelTank.State fuel="368.9506" capacity="368.9506" />
+        <Fuselage.State frontScale="4.5,1" rearScale="5,1" offset="-1.5,0,1.75" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7598" partType="Inlet-1" position="1.562493,3.849295,3.78118" rotation="0,0,180" drag="0.1322136,0.1322136,0.257,0.257,0.006414512,0" materials="10,10,-3" />
+      <Part id="7599" partType="Inlet-1" position="3.187493,3.849295,3.718678" rotation="0,0,180" drag="0.13097,0.13097,0.256,0.256,5.399882E-05,0.1324282" materials="10,10,-3" />
+      <Part id="7600" partType="Engine-Jet-6" position="6.375,3.474293,1.656168" rotation="0,0,0" drag="0.132,0.132,0.3801999,0.3801999,0.004428022,0.008400001" materials="1,1,1,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7601" partType="Fuselage-Cone-1" position="6.812499,3.724293,1.843667" rotation="0,180,0" drag="0.1811811,0.1811811,0.05031407,0.05031407,0.003357208,0.1824645" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7602" partType="Fuselage-Body-1" position="6.812499,3.474293,0.4061669" rotation="0,0,0" drag="0.04246399,0.04246399,0.5008864,0.5008864,0.06840619,1.790439" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7603" partType="Fuselage-Body-1" position="6.8125,3.474293,-1.218828" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7604" partType="Engine-Jet-6" position="6.375,3.474293,-0.281328" rotation="0,0,0" drag="0.3621787,0.3621787,1.165001,1.165001,0.01542406,1.5302" materials="10,10,10,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7605" partType="Fuselage-Body-1" position="5.9375,3.474293,-1.21883" rotation="0,0,0" drag="0.02102951,0.02102951,0.182344,0.182344,0.2201272,0.01599995" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7606" partType="Fuselage-Body-1" position="5.9375,3.474293,0.4061698" rotation="0,0,0" drag="0.04678828,0.04678828,0.5025199,0.5025199,0.6050916,0.092704" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7607" partType="Fuselage-Cone-1" position="5.9375,3.724293,2.15617" rotation="0,180,0" drag="0.1265354,0.1265354,0.1408084,0.1408084,0.05777937,0.3598665" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7608" partType="Wing-2" position="5.9375,3.036793,-0.34383" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-4.470348E-08,0.3750001,0.375" materials="10,10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="false" rootLeadingOffset="2" rootTrailingOffset="1.25" tipLeadingOffset="2" tipTrailingOffset="1.25" tipPosition="0,0.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7609" partType="Fuselage-Cone-1" position="6.375,3.474293,1.781168" rotation="0,180,0" drag="0.05268577,0.05268577,0.05627278,0.05627278,0.000455702,0.0032" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7610" partType="AirBrake-1" position="6.8125,4.474294,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10,10">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7611" partType="Inlet-1" position="5.5625,3.849294,1.156169" rotation="0,0,180" drag="0.1339989,0.1339989,0.257,0.257,0.01063147,0" materials="10,10,-3" />
+      <Part id="7612" partType="Wing-2" position="6.999998,4.224294,-0.843823" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-0.3315076,2.652061,-1.1875" materials="3,3">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="2.5" rootTrailingOffset="1.5" tipLeadingOffset="0.75" tipTrailingOffset="1.5" tipPosition="-0.75,6,-2.5" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="1" end="14" inputId="Roll" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7613" partType="Fuselage-Body-1" position="9.81249,4.599295,-2.656334" rotation="0,90.00008,0" drag="0.108812,0.108812,2.034154,2.034154,0.06278266,0.1353134" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1" rearScale="4,1" offset="-1.75,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7614" partType="Fuselage-Body-1" position="9.81249,4.599295,-1.03133" rotation="0,90.00008,0" drag="0.9167221,0.9167221,3.49866,3.49866,0.05416029,0.8127257" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,1" rearScale="4,1" offset="-2.25,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7615" partType="Fuselage-Body-1" position="11.87499,4.849295,-2.218837" rotation="0,90.00008,0" drag="0.8666504,0.8666504,0.8985983,0.8985983,0.03144898,0.4121118" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1.5,1" rearScale="3,1" offset="-2.5,-0.5,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7616" partType="Fuselage-Body-1" position="11.87499,4.849295,-3.406337" rotation="0,90.00008,0" drag="0.2482195,0.2482195,4.647827,4.647827,0.1364191,0.2681666" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="5,1" rearScale="3.5,1" offset="-1.25,-0.5,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,0,0" />
+      </Part>
+      <Part id="7617" partType="Fuselage-Body-1" position="13.74999,5.161795,-4.218838" rotation="0,90.00008,0" drag="0.7106237,0.7106237,3.393087,3.393087,0.2179884,0.7386855" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4.5,1" rearScale="5,1" offset="-2,-0.75,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7618" partType="Fuselage-Body-1" position="15.24999,5.536795,-5.281341" rotation="0,90.00008,0" drag="0.7633477,0.7633477,3.078651,3.078651,0.2322827,0.6539447" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="4.5,1" offset="-2.25,-0.75,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7619" partType="Fuselage-Body-1" position="16.81249,5.911795,-6.468842" rotation="0,90.00008,0" drag="0.6898133,0.6898133,2.718233,2.718233,0.3375536,0.7429859" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1" rearScale="4,1" offset="-2.5,-0.75,3.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7620" partType="Fuselage-Body-1" position="18.31248,6.286795,-7.718843" rotation="0,90.00008,0" drag="0.6826519,0.6826519,2.177947,2.177947,0.3360722,0.7444229" materials="13">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="2.5,1" rearScale="3.5,1" offset="-2.5,-0.75,2.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7621" partType="Fuselage-Body-1" position="19.56248,6.661795,-8.96885" rotation="0,90.00008,0" drag="0.358203,0.358203,0.9679415,0.9679415,0.292775,0.7069994" materials="13">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1.5,0.5" rearScale="2.5,1" offset="-2.5,-0.75,2.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7622" partType="Fuselage-Body-1" position="20.49998,7.036795,-10.21884" rotation="0,90.00008,0" drag="0.09191486,0.09191486,0.3526766,0.3526766,0.1183502,0.3341962" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0" rearScale="1.5,0.5" offset="-2.5,-0.75,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7623" partType="Wing-2" position="13,4.974291,-3.343831" rotation="0,0,270" drag="0,0,0,0,0,0" centerOfMass="-0.5254295,2.101718,-2.0625" materials="9,9">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="1.5" tipLeadingOffset="0.75" tipTrailingOffset="0.25" tipPosition="-1.25,5,-4" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="1" end="14" inputId="Roll" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7624" partType="Inlet-1" position="7.18749,3.849295,1.156174" rotation="0,0,180" drag="0.134,0.134,0.257,0.257,0,0.135" materials="10,10,-3" />
+      <Part id="7625" partType="AirBrake-1" position="4.875,4.474294,0.218671" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7626" partType="AirBrake-1" position="5.875,4.474294,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7627" partType="AirBrake-1" position="6.312498,4.474294,0.21867" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10,10">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7628" partType="NoseCone-3" position="1.25,4.974295,2.468669" rotation="0,90.00003,269.9999" drag="0.005998701,0.005998701,0,0,0,0.06201698" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7629" partType="NoseCone-3" position="1.25,4.849295,1.593666" rotation="0,90.00003,269.9999" drag="0.01199764,0.01199764,0.00012,0.00012,0,0.3791311" materials="9">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7630" partType="NoseCone-3" position="1.25,4.974295,0.7811701" rotation="0,90.00003,269.9999" drag="0.002999324,0.002999324,0,0,0,0.05877705" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7631" partType="NoseCone-3" position="1.25,4.974295,0.4061681" rotation="0,90.00003,269.9999" drag="0.005998739,0.005998739,4.000001E-05,4.000001E-05,0,0.05306953" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7632" partType="NoseCone-3" position="1.25,4.974295,4.718668" rotation="0,90.00003,269.9999" drag="0.005998289,0.005998289,4.000001E-05,4.000001E-05,0,0.06561756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7633" partType="NoseCone-3" position="1.25,4.974295,4.343668" rotation="0,90.00003,269.9999" drag="0.002999187,0.002999187,0.00048,0.00048,0,0.05902979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7634" partType="NoseCone-3" position="1.25,4.974295,3.968665" rotation="0,90.00003,269.9999" drag="0.00599845,0.00599845,0.00148,0.00148,0,0.06561756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7635" partType="NoseCone-3" position="1.25,4.974295,3.593665" rotation="0,90.00003,269.9999" drag="0.002999261,0.002999261,0.00048,0.00048,0,0.05902978" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7636" partType="NoseCone-3" position="1.25,4.974295,3.218666" rotation="0,90.00003,269.9999" drag="0.005998586,0.005998586,0.00144,0.00144,0,0.06561732" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7637" partType="NoseCone-3" position="1.25,4.974295,2.843666" rotation="0,90.00003,269.9999" drag="0.002999323,0.002999323,4.000001E-05,4.000001E-05,0,0.05902888" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7638" partType="NoseCone-3" position="1.25,4.849295,6.718669" rotation="0,90.00003,269.9999" drag="0.009991311,0.009991311,0.013272,0.013272,0,0.3803994" materials="10">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7639" partType="NoseCone-3" position="1.25,4.974295,5.843669" rotation="0,90.00003,269.9999" drag="0.00299898,0.00299898,0.00172,0.00172,0,0.06102979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7640" partType="NoseCone-3" position="1.25,4.974295,5.468669" rotation="0,90.00003,269.9999" drag="0.005998092,0.005998092,0.0002,0.0002,0,0.06561756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7641" partType="NoseCone-3" position="1.25,4.974295,5.093669" rotation="0,90.00003,269.9999" drag="0.002999099,0.002999099,0,0,0,0.05902979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7642" partType="NoseCone-3" position="1.25,4.974295,9.84375" rotation="0,90.00003,269.9999" drag="0.003998668,0.003998668,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7643" partType="NoseCone-3" position="1.25,4.974295,9.468707" rotation="0,90.00003,269.9999" drag="0.007996745,0.007996745,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7644" partType="NoseCone-3" position="1.25,4.974295,9.093666" rotation="0,90.00003,269.9999" drag="0.00399806,0.00399806,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7645" partType="NoseCone-3" position="1.25,4.974295,8.718676" rotation="0,90.00003,269.9999" drag="0.00799546,0.00799546,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7646" partType="NoseCone-3" position="1.25,4.974295,8.343674" rotation="0,90.00003,269.9999" drag="0.003997388,0.003997388,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7647" partType="NoseCone-3" position="1.25,4.974295,7.968678" rotation="0,90.00003,269.9999" drag="0.00799407,0.00799407,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7648" partType="NoseCone-3" position="1.25,4.974295,7.593678" rotation="0,90.00003,269.9999" drag="0.003996675,0.003996675,0.004,0.004,0,0.06202979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7649" partType="NoseCone-3" position="1.25,4.974295,16.09377" rotation="0,90.00003,269.9999" drag="0.004,0.004,0.004,0.004,0,0.06202979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7650" partType="NoseCone-3" position="1.25,4.849295,16.96875" rotation="0,90.00003,269.9999" drag="0.012,0.012,0.016,0.016,0,0.381714" materials="12">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7651" partType="NoseCone-3" position="1.25,4.974295,15.71877" rotation="0,90.00003,269.9999" drag="0.008,0.008,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7652" partType="NoseCone-3" position="1.25,4.974295,15.34377" rotation="0,90.00003,269.9999" drag="0.004,0.004,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7653" partType="NoseCone-3" position="1.25,4.974295,14.96877" rotation="0,90.00003,269.9999" drag="0.008,0.008,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7654" partType="NoseCone-3" position="1.25,4.974295,14.59377" rotation="0,90.00003,269.9999" drag="0.004,0.004,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7655" partType="NoseCone-3" position="1.25,4.974295,14.21877" rotation="0,90.00003,269.9999" drag="0.008,0.008,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7656" partType="NoseCone-3" position="1.25,4.974295,13.84377" rotation="0,90.00003,269.9999" drag="0.003999998,0.003999998,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7657" partType="NoseCone-3" position="1.25,4.974295,13.46877" rotation="0,90.00003,269.9999" drag="0.007999975,0.007999975,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7658" partType="NoseCone-3" position="1.25,4.974295,13.09377" rotation="0,90.00003,269.9999" drag="0.003999966,0.003999966,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7659" partType="NoseCone-3" position="1.25,4.974295,12.71877" rotation="0,90.00003,269.9999" drag="0.007999848,0.007999848,0.006,0.006,0,0.06402978" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7660" partType="NoseCone-3" position="1.25,4.849295,11.84377" rotation="0,90.00003,269.9999" drag="0.01799712,0.01799712,0.02,0.02,0,0.4450003" materials="11">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7661" partType="NoseCone-3" position="1.25,4.974295,10.96877" rotation="0,90.00003,269.9999" drag="0.007998859,0.007998859,0.006,0.006,0,0.06961755" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7662" partType="NoseCone-3" position="1.25,4.974295,10.59375" rotation="0,90.00003,269.9999" drag="0.003999195,0.003999195,0.002,0.002,0,0.06002979" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7663" partType="NoseCone-3" position="1.25,4.974295,10.21875" rotation="0,90.00003,269.9999" drag="0.007997883,0.007997883,0.004,0.004,0,0.06761756" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7664" partType="NoseCone-3" position="-1.250002,4.974295,-0.343825" rotation="0,270,90.00008" drag="0.003636189,0.003636189,0.00196,0.00196,0.0400754,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7665" partType="NoseCone-3" position="-1.250002,4.974295,-0.7188251" rotation="0,270,90.00008" drag="0.006963958,0.006963958,0.004,0.004,0.04236855,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7666" partType="NoseCone-3" position="-1.250002,4.974295,-2.281328" rotation="0,270,90.00008" drag="0.005621471,0.005621471,0.00392,0.00392,0.03877665,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7667" partType="NoseCone-3" position="-1.250002,4.849295,-1.406327" rotation="0,270,90.00008" drag="0.01455752,0.01455752,0.014448,0.014448,0.1830691,0" materials="8">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7668" partType="Fuselage-Body-1" position="-1.1875,4.224294,-2.093822" rotation="0,269.9999,0" drag="0.0578661,0.0578661,0.1294653,0.1294653,0.005061281,0.0004206548" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,1" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7669" partType="Fuselage-Body-1" position="-2.375,4.224294,-2.093822" rotation="0,269.9999,0" drag="0.3915366,0.3915366,0.9192566,0.9192566,0.05051466,0.01024904" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7670" partType="Fuselage-Body-1" position="-4.25,4.224294,-2.093825" rotation="0,269.9999,0" drag="0.356459,0.356459,0.7597604,0.7597604,0.03685982,0.0125974" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1,1" rearScale="1,1" offset="0,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7671" partType="JointRotator-1" position="-4.937501,4.224294,-1.593828" rotation="90,0,0" drag="0.0115665,0.0115665,0.04854859,0.04854859,0.005692494,0.03210006" materials="11,11">
+        <InputController.State activationGroup="1" invert="true" min="-1" max="1" input="VTOL" />
+        <JointRotator.State range="90" speed="0.3" />
+      </Part>
+      <Part id="7672" partType="Fuselage-Body-1" position="-4.937501,4.224294,-1.156327" rotation="0,180,0" drag="0.02861721,0.02861721,0.06139525,0.06139525,0.0009571293,0.004597019" materials="1">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7673" partType="Fuselage-Body-1" position="-4.937501,3.474293,-1.156327" rotation="90,180,0" drag="0.1740925,0.1740925,0.01269933,0.01269933,0.06335811,0.07050275" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,2.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7674" partType="Fuselage-Body-1" position="-4.937501,2.724293,-1.156327" rotation="-1.343525E-13,-9.659346E-06,180" drag="0,0,0,0,0,0" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7675" partType="Fuselage-Body-1" position="-4.937501,2.724293,-0.9063261" rotation="-1.343525E-13,-9.659346E-06,180" drag="0,0,0,0,0,0" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7676" partType="Fuselage-Body-1" position="-4.937501,2.474293,-0.7813261" rotation="270,0,0" drag="0.04517028,0.04517028,0.0785,0.0785,0.01209798,0.009393316" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,1.5" offset="0,-0.5,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7677" partType="Wheel-1" position="-4.937501,2.099293,-0.9063261" rotation="0,-9.659346E-06,0" drag="0.1517998,0.1517998,0.154,0.154,0.1519998,0.1518243" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="false" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7678" partType="Wheel-1" position="-4.937501,2.099293,-0.4063261" rotation="0,-9.659346E-06,0" drag="0.1519999,0.1519999,0.154,0.154,0.1519952,0.1518057" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="false" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7679" partType="Inlet-1" position="-5.187501,2.724293,-1.156327" rotation="0,0,90.00002" drag="0.1417101,0.1417101,0.07974,0.07974,0.2348949,0.009639089" materials="10,10,-3" />
+      <Part id="7680" partType="Inlet-1" position="-4.687501,2.724293,-1.156327" rotation="0,0,269.9999" drag="0.1412332,0.1412332,0.14072,0.14072,0.009106138,0.180906" materials="10,10,-3" />
+      <Part id="7681" partType="Fuselage-Body-1" position="-4.937501,2.724293,-1.406327" rotation="270,180,0" drag="0.06236677,0.06236677,0.0012,0.0012,0.001524798,0.001344931" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7682" partType="Fuselage-Body-1" position="-4.937501,2.474293,-1.531328" rotation="270,180,0" drag="0.01265271,0.01265271,0.0785,0.0785,0.07326876,0.05874724" materials="4">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,1.5" offset="0,-0.5,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7683" partType="Wheel-1" position="-4.937501,2.099293,-1.406327" rotation="0,180,0" drag="0.1517501,0.1517501,0.154,0.154,0.152,0.1518468" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="true" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7684" partType="Wheel-1" position="-4.937501,2.099293,-1.906328" rotation="0,180,0" drag="0.1516732,0.1516732,0.154,0.154,0.152,0.1518839" materials="6,4">
+        <Wheel.State sensitivity="2" turningEnabled="true" flipped="false" />
+        <InputController.State activationGroup="0" invert="false" min="-45" max="45" input="Yaw" />
+      </Part>
+      <Part id="7685" partType="Wing-2" position="-1.000001,4.286795,-0.5313261" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="-1.752058E-07,2.530268,2.0625" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="6.5" rootTrailingOffset="0.25" tipLeadingOffset="2.5" tipTrailingOffset="0" tipPosition="0,6.25,-0.25" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7686" partType="Wing-2" position="-1.000001,4.411795,-0.9063261" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="2.235174E-07,1.875,0" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="1" tipLeadingOffset="1" tipTrailingOffset="1" tipPosition="0,3.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7687" partType="Wing-2" position="-4.750002,4.411795,-0.9063261" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="8.940697E-08,0.7500001,0.25" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="0.5" tipLeadingOffset="1" tipTrailingOffset="0.5" tipPosition="0,1.5,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7688" partType="NoseCone-3" position="-1.250002,4.974295,-2.656336" rotation="0,270,90.00008" drag="0.003244609,0.003244609,0.002,0.002,0.03367012,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7689" partType="NoseCone-3" position="-1.250002,4.974295,0.03117204" rotation="0,270,90.00008" drag="0.006794641,0.006794641,0.002,0.002,0.05384851,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7690" partType="Wing-2" position="-1.000001,4.036794,-0.8438261" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="2.235174E-07,1.875,0" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="1" rootTrailingOffset="1" tipLeadingOffset="1" tipTrailingOffset="1" tipPosition="0,3.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7691" partType="NoseCone-3" position="-1.250002,4.974295,-3.031334" rotation="0,270,90.00008" drag="0.006322552,0.006322552,0.004,0.004,0.03733721,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7692" partType="NoseCone-3" position="-1.250002,4.974295,-3.406334" rotation="0,270,90.00008" drag="0.003088473,0.003088473,0.002,0.002,0.03335437,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7693" partType="NoseCone-3" position="-1.250002,4.974295,-3.781334" rotation="0,270,90.00008" drag="0.006082012,0.006082012,0.004,0.004,0.03908943,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7694" partType="NoseCone-3" position="-1.250002,4.974295,-4.156332" rotation="0,270,90.00008" drag="0.003007178,0.003007178,0.002,0.002,0.03554453,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7695" partType="NoseCone-3" position="-1.250002,4.974295,-4.531335" rotation="0,270,90.00008" drag="0.00596913,0.00596913,0.004,0.004,0.04233474,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7696" partType="NoseCone-3" position="-1.250002,4.974295,-4.906335" rotation="0,270,90.00008" drag="0.002968094,0.002968094,0.002,0.002,0.03865323,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7697" partType="NoseCone-3" position="-1.250002,4.974295,-5.281335" rotation="0,270,90.00008" drag="0.005914267,0.005914267,0.004,0.004,0.0461809,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7698" partType="NoseCone-3" position="-1.250002,4.974295,-5.656335" rotation="0,270,90.00008" drag="0.0029494,0.0029494,0.004,0.004,0.04366296,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7699" partType="NoseCone-3" position="-1.250002,4.974295,-7.156335" rotation="0,270,90.00008" drag="0.003067897,0.003067897,0.004,0.004,0.05047715,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7700" partType="NoseCone-3" position="-1.250002,4.849295,-6.406335" rotation="0,270,90.00008" drag="0.01343776,0.01343776,0.02,0.02,0.3081493,0" materials="7">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7701" partType="NoseCone-3" position="-1.250002,4.974295,-7.531335" rotation="0,270,90.00008" drag="0.006080209,0.006080209,0.004,0.004,0.05708505,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7702" partType="NoseCone-3" position="-1.250002,4.974295,-7.906335" rotation="0,270,90.00008" drag="0.003024061,0.003024061,0.002,0.002,0.05152855,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7703" partType="NoseCone-3" position="-1.250002,4.974295,-8.281334" rotation="0,270,90.00008" drag="0.006031253,0.006031253,0.004,0.004,0.05983372,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7704" partType="NoseCone-3" position="-1.250002,4.974295,-8.656334" rotation="0,270,90.00008" drag="0.00301065,0.00301065,0.002,0.002,0.05387581,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7705" partType="NoseCone-3" position="-1.250002,4.974295,-9.03133" rotation="0,270,90.00008" drag="0.006016961,0.006016961,0.004,0.004,0.06227,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7706" partType="NoseCone-3" position="-1.250002,4.974295,-9.40632" rotation="0,270,90.00008" drag="0.003007872,0.003007872,0.002,0.002,0.05594388,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7707" partType="NoseCone-3" position="-1.250002,4.974295,-9.78132" rotation="0,270,90.00008" drag="0.006017418,0.006017418,0.004,0.004,0.06433203,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7708" partType="NoseCone-3" position="-1.250002,4.974295,-10.15632" rotation="0,270,90.00008" drag="0.003010427,0.003010427,0.002,0.002,0.05763368,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7709" partType="NoseCone-3" position="-1.250002,4.974295,-10.53127" rotation="0,270,90.00008" drag="0.006026017,0.006026017,0.006,0.006,0.06239165,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7710" partType="NoseCone-3" position="-1.250002,4.849295,-11.34372" rotation="0,270,90.00008" drag="0.01372771,0.01372771,0.018,0.018,0.3775988,0" materials="6">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7711" partType="NoseCone-3" position="-1.250002,4.974295,-12.09372" rotation="0,270,90.00008" drag="0.006105213,0.006105213,0.004,0.004,0.06732932,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7712" partType="NoseCone-3" position="-1.250002,4.974295,-12.46872" rotation="0,270,90.00008" drag="0.006105685,0.006105685,0.006,0.006,0.06385005,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7713" partType="NoseCone-3" position="-1.250001,4.974295,-12.84372" rotation="0,270,90.00008" drag="0.0015733,0.0015733,0.002,0.002,0.06354287,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7714" partType="NoseCone-3" position="-1.250001,4.974295,-13.21872" rotation="0,270,90.00008" drag="0.001561209,0.001561209,0.002,0.002,0.06356442,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7715" partType="NoseCone-3" position="-1.250001,4.974295,-13.59372" rotation="0,270,90.00008" drag="0.003104611,0.003104611,0.004,0.004,0.06359756,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7716" partType="NoseCone-3" position="-1.250001,4.849295,-14.34372" rotation="0,270,90.00008" drag="0.009295179,0.009295179,0.012,0.012,0.3740948,0" materials="6">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7717" partType="Fuselage-Body-1" position="-1.437503,5.161795,-19.34375" rotation="0,269.9999,0" drag="0.08845512,0.08845512,3.20083,3.20083,0.1181406,0.1363905" materials="14">
+        <FuelTank.State fuel="371.09375" capacity="371.09375" />
+        <Fuselage.State frontScale="5,0.5" rearScale="5,0.5" offset="0.5,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,0,0,0,0" />
+      </Part>
+      <Part id="7718" partType="JointRotator-1" position="-0.500001,5.161795,-20.78125" rotation="0,0,90.00008" drag="0.0003862563,0.0003862563,0.06450001,0.06450001,0.1006299,0" materials="14,14">
+        <InputController.State activationGroup="0" invert="false" min="-1" max="1" input="Throttle" />
+        <JointRotator.State range="45" speed="0.5" />
+      </Part>
+      <Part id="7719" partType="Wing-2" position="-0.7500008,5.161795,-20.78125" rotation="0,0,89.99994" drag="0,0,0,0,0,0" centerOfMass="1.211766E-07,1.09835,-0.125" materials="14,14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="0.25" rootTrailingOffset="0.25" tipLeadingOffset="0" tipTrailingOffset="0" tipPosition="0,3.75,-0.25" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7720" partType="Fuselage-Body-1" position="-3.937503,5.161795,-19.78125" rotation="0,269.9999,0" drag="0.1314337,0.1314337,3.614029,3.614029,0.1750231,0.1422254" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,0.5" rearScale="5,0.5" offset="1.25,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7721" partType="Fuselage-Body-1" position="-5.625003,5.161795,-20.28125" rotation="0,269.9999,0" drag="0.03286588,0.03286588,0.8038827,0.8038827,0.04519199,0.04077138" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,0.5" rearScale="4,0.5" offset="0.75,0,1.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7722" partType="Fuselage-Body-1" position="-6.187503,5.161795,-20.46875" rotation="0,0,0" drag="0.02321767,0.02321767,0.26,0.26,0.09957851,0.05497088" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="0,0,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7723" partType="Wing-2" position="-0.5625018,5.161795,-20.21875" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="-2.123802E-07,2.218426,0.84375" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Semi-Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="4" rootTrailingOffset="0.125" tipLeadingOffset="1" tipTrailingOffset="0.5" tipPosition="0,5.5,-0.5" hingeDistance="0.4" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="0" end="15" inputId="Pitch" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7724" partType="Fuselage-Body-1" position="-5.562499,5.161795,-19.40625" rotation="0,269.9999,0" drag="0.05490943,0.05490943,0.09679811,0.09679811,0.08008786,0.0344742" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0.5,0.5" offset="1.25,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7725" partType="Fuselage-Body-1" position="-3.875001,5.161795,-18.46875" rotation="0,269.9999,0" drag="0.2038699,0.2038699,1.314056,1.314056,0.2258282,0.1178084" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="2,0.5" offset="2.5,0,4.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7726" partType="Fuselage-Body-1" position="-1.437502,5.161795,-17.34375" rotation="0,269.9999,0" drag="0.1932512,0.1932512,2.556608,2.556608,0.2218079,0.05759514" materials="14">
+        <FuelTank.State fuel="244.352631" capacity="244.352631" />
+        <Fuselage.State frontScale="2,0.5" rearScale="5,0.5" offset="2,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7727" partType="Fuselage-Cone-1" position="-6.000003,5.161795,-19.59375" rotation="0,180,0" drag="0.02333678,0.02333678,0.05329305,0.05329305,0.014,0.0107426" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="-0.75,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,2,2" />
+      </Part>
+      <Part id="7728" partType="Wing-3" position="-6.187503,5.286795,-20.46875" rotation="0,0,0" drag="0,0,0,0,0,0" centerOfMass="0,0.6443582,-0.9375" materials="14,14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="1.5" tipLeadingOffset="0.25" tipTrailingOffset="0.25" tipPosition="0,1.75,-1.5" hingeDistance="0.4" allowControlSurfaces="true" fuelPercentage="0" />
+      </Part>
+      <Part id="7729" partType="Fuselage-Cone-1" position="-6.187503,5.224295,-21.71875" rotation="0,-9.659346E-06,0" drag="0.02917789,0.02917789,0.1712046,0.1712046,0.2026796,0.2132613" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0.25,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7730" partType="Wing-3" position="-0.5000008,5.036795,-15.78125" rotation="0,0,180" drag="0,0,0,0,0,0" centerOfMass="-2.68211E-08,0.375,0" materials="1,2">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="true" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="0.75" tipLeadingOffset="0.75" tipTrailingOffset="0.75" tipPosition="0,0.75,0" hingeDistance="0.8" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="0" end="1" inputId="Yaw" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7731" partType="Wing-2" position="-1.000001,4.224295,2.156169" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="-1.893782E-07,2.411381,-0.625" materials="11,11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="4" rootTrailingOffset="3" tipLeadingOffset="2.5" tipTrailingOffset="0" tipPosition="0,6,-3" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0" />
+      </Part>
+      <Part id="7732" partType="Fuselage-Body-1" position="-5.562502,4.224294,0.4061703" rotation="0,269.9999,0" drag="0.01546114,0.01546114,0.4984805,0.4984805,0.007739007,0.002368511" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,1" rearScale="3,1" offset="1.25,0,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7733" partType="Fuselage-Body-1" position="-6.125002,4.224294,-1.218827" rotation="0,269.9999,0" drag="0.1068118,0.1068118,1.725343,1.725343,0.07017349,0.07766981" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="5,1" rearScale="5,1" offset="0.5,0,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7734" partType="Fuselage-Body-1" position="-7.937491,4.349295,-1.781331" rotation="0,269.9999,0" drag="0.1144583,0.1144583,2.281624,2.281624,0.315863,0.05468805" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="5,1" offset="1.75,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7735" partType="Fuselage-Body-1" position="-7.937491,4.349295,0.156172" rotation="0,269.9999,0" drag="0.8581477,0.8581477,3.320837,3.320837,0.6334751,0.03342928" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="4.5,1" offset="2.5,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7736" partType="Fuselage-Body-1" position="-6.125002,4.224294,1.406168" rotation="0,269.9999,0" drag="0.800338,0.800338,0.8827342,0.8827342,0.4211436,0.01834055" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7737" partType="Fuselage-Body-1" position="-4.374992,4.224295,2.656178" rotation="0,269.9999,0" drag="0.8068731,0.8068731,3.430103,3.430103,0.4634377,0.01139851" materials="10">
+        <FuelTank.State fuel="697.2656" capacity="697.2656" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7738" partType="Fuselage-Body-1" position="-2.624995,4.224295,3.906179" rotation="0,269.9999,0" drag="0.7114246,0.7114246,0.6184061,0.6184061,0.4032164,0.01393531" materials="10">
+        <FuelTank.State fuel="697.2656" capacity="697.2656" />
+        <Fuselage.State frontScale="4.5,1" rearScale="4.5,1" offset="2.5,0,3.5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7739" partType="Fuselage-Body-1" position="-2.250001,4.224295,2.281169" rotation="0,269.9999,0" drag="0.1077265,0.1077265,1.8125,1.8125,0.09425802,0.001521593" materials="10">
+        <FuelTank.State fuel="659.1171" capacity="659.1171" />
+        <Fuselage.State frontScale="1.5,1" rearScale="5,1" offset="1.75,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7740" partType="Fuselage-Body-1" position="-2.249999,4.224295,0.7186711" rotation="0,269.9999,0" drag="0.08119357,0.08119357,2.8425,2.8425,0.06258284,0.005696927" materials="11">
+        <FuelTank.State fuel="644.53125" capacity="644.53125" />
+        <Fuselage.State frontScale="3,1" rearScale="3,1" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7741" partType="Fuselage-Body-1" position="-3.999999,4.224295,0.7186692" rotation="0,269.9999,0" drag="0.04629057,0.04629057,1.510558,1.510558,0.02514133,0.004107996" materials="11">
+        <FuelTank.State fuel="257.8125" capacity="257.8125" />
+        <Fuselage.State frontScale="3,1" rearScale="3,1" offset="0,0,2" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7742" partType="Fuselage-Body-1" position="-4.000002,4.224294,1.656168" rotation="0,269.9999,0" drag="0.02313392,0.02313392,0.375,0.375,0.01407388,0.0007263123" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0,1" rearScale="1.5,1" offset="0.75,0,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,0,0,0,0,0,0" />
+      </Part>
+      <Part id="7743" partType="AirBrake-1" position="-3.874998,4.474295,0.218668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7744" partType="AirBrake-1" position="-4.374998,4.474295,0.218668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7745" partType="AirBrake-1" position="-1.874998,4.474295,0.218671" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7746" partType="AirBrake-1" position="-2.374998,4.474295,0.21867" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7747" partType="AirBrake-1" position="-2.874998,4.474295,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7748" partType="Fuselage-Body-1" position="-2.8125,3.474294,1.468668" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7749" partType="Fuselage-Body-1" position="-2.812494,3.474294,3.093678" rotation="0,0,0" drag="0.005329639,0.005329639,0.06081343,0.06081343,0.1885103,0.008793199" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7750" partType="Engine-Jet-6" position="-2.375001,3.474294,2.343668" rotation="0,0,0" drag="0.06113804,0.06113804,1.306,1.306,0.4979419,0.0782955" materials="10,10,10,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7751" partType="Wing-2" position="-1.937502,3.036794,2.343669" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="4.47035E-08,0.3750002,0.375" materials="10,10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="false" rootLeadingOffset="2" rootTrailingOffset="1.25" tipLeadingOffset="2" tipTrailingOffset="1.25" tipPosition="0,0.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7752" partType="Engine-Jet-6" position="-2.374995,3.474294,4.343679" rotation="0,0,0" drag="0.4745263,0.4745263,1.153,1.153,1.338097,0.01384646" materials="1,1,1,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7753" partType="Fuselage-Cone-1" position="-2.812494,3.724294,4.531178" rotation="0,180,0" drag="0.1759558,0.1759558,0.07795743,0.07795743,0.3155441,0.06056027" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7754" partType="Fuselage-Cone-1" position="-1.937502,3.724294,4.843669" rotation="0,180,0" drag="0.1194398,0.1194398,0.1267055,0.1267055,0.2590168,0.1361213" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7755" partType="Fuselage-Body-1" position="-1.937502,3.474294,3.093669" rotation="0,0,0" drag="0.05102778,0.05102778,0.506634,0.506634,0.1892835,0.5173008" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7756" partType="Fuselage-Body-1" position="-1.9375,3.474294,1.468669" rotation="0,0,0" drag="0.02069253,0.02069253,0.1927956,0.1927956,0.006092358,0.1569156" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7757" partType="Fuselage-Cone-1" position="-2.374995,3.474294,4.468679" rotation="0,180,0" drag="0.05254736,0.05254736,0.06419741,0.06419741,0.003199998,0.01564903" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7758" partType="Fuselage-Body-1" position="-1.312497,4.224295,4.906181" rotation="0,269.9999,0" drag="0.3505048,0.3505048,1.393152,1.393152,0.3190647,0.00762574" materials="10">
+        <FuelTank.State fuel="368.9506" capacity="368.9506" />
+        <Fuselage.State frontScale="4.5,1" rearScale="5,1" offset="1.5,0,1.75" deadWeight="0" buoyancy="0" fuelPercentage="1" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7759" partType="Inlet-1" position="-1.562495,3.849295,3.78118" rotation="0,0,180" drag="0.1316508,0.1316508,0.257,0.257,0,0.006414512" materials="10,10,-3" />
+      <Part id="7760" partType="Inlet-1" position="-3.187495,3.849295,3.718678" rotation="0,0,180" drag="0.1309444,0.1309444,0.256,0.256,0.1324282,5.399882E-05" materials="10,10,-3" />
+      <Part id="7761" partType="Engine-Jet-6" position="-6.375002,3.474293,1.656168" rotation="0,0,0" drag="0.132,0.132,0.3801999,0.3801999,0.008400001,0.004428022" materials="1,1,1,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7762" partType="Fuselage-Cone-1" position="-6.812501,3.724293,1.843667" rotation="0,180,0" drag="0.1811812,0.1811812,0.05031408,0.05031408,0.1824645,0.003357208" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,0.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7763" partType="Fuselage-Body-1" position="-6.812501,3.474293,0.4061669" rotation="0,0,0" drag="0.04246399,0.04246399,0.4458206,0.4458206,1.79044,0.01670463" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7764" partType="Fuselage-Body-1" position="-6.812502,3.474293,-1.218828" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,0,0,0,2,0" />
+      </Part>
+      <Part id="7765" partType="Engine-Jet-6" position="-6.375002,3.474293,-0.281328" rotation="0,0,0" drag="0.3621787,0.3621787,1.165,1.165,1.530201,0.01542406" materials="10,10,10,-3">
+        <InputController.State activationGroup="0" invert="false" min="0" max="2" input="Throttle" />
+      </Part>
+      <Part id="7766" partType="Wing-2" position="-5.937502,3.036793,-0.34383" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="4.470348E-08,0.3750001,0.375" materials="10,10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="false" rootLeadingOffset="2" rootTrailingOffset="1.25" tipLeadingOffset="2" tipTrailingOffset="1.25" tipPosition="0,0.75,0" hingeDistance="0.3" allowControlSurfaces="false" fuelPercentage="0" />
+      </Part>
+      <Part id="7767" partType="Fuselage-Body-1" position="-5.937502,3.474293,0.4061698" rotation="0,0,0" drag="0.05800801,0.05800801,0.6377514,0.6377514,0.09670402,0.6572089" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7768" partType="Fuselage-Body-1" position="-5.937502,3.474293,-1.21883" rotation="0,0,0" drag="0.01580969,0.01580969,0.1377882,0.1377882,0.01399995,0.1472711" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0.5,2" offset="0,0,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,0,0,0,2,0,0" />
+      </Part>
+      <Part id="7769" partType="Fuselage-Cone-1" position="-5.937502,3.724293,2.15617" rotation="0,180,0" drag="0.1205353,0.1205353,0.1368084,0.1368084,0.3578664,0.05676647" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,2" rearScale="0,0" offset="0,1,2" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,2,2,0,2,2,2,2" />
+      </Part>
+      <Part id="7770" partType="Fuselage-Cone-1" position="-6.375002,3.474293,1.781168" rotation="0,180,0" drag="0.05268577,0.05268577,0.05627278,0.05627278,0.0032,0.000455702" materials="10">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0.5" rearScale="0,0" offset="0,0,0.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7771" partType="AirBrake-1" position="-6.812502,4.474294,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10,10">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7772" partType="Inlet-1" position="-5.562502,3.849294,1.156169" rotation="0,0,180" drag="0.1339988,0.1339988,0.257,0.257,0,0.01063147" materials="10,10,-3" />
+      <Part id="7773" partType="Wing-2" position="-7,4.224294,-0.843823" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="0.3315076,2.652061,-1.1875" materials="3,3">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="2.5" rootTrailingOffset="1.5" tipLeadingOffset="0.75" tipTrailingOffset="1.5" tipPosition="0.75,6,-2.5" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="1" end="14" inputId="Roll" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7774" partType="Fuselage-Body-1" position="-9.812492,4.599295,-2.656334" rotation="0,269.9999,0" drag="0.108812,0.108812,2.034154,2.034154,0.1353134,0.06278372" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1" rearScale="4,1" offset="1.75,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="0,0,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7775" partType="Fuselage-Body-1" position="-9.812492,4.599295,-1.03133" rotation="0,269.9999,0" drag="0.9167225,0.9167225,3.498662,3.498662,0.8127237,0.05486402" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3,1" rearScale="4,1" offset="2.25,-0.5,3.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7776" partType="Fuselage-Body-1" position="-11.87499,4.849295,-2.218837" rotation="0,269.9999,0" drag="0.8666505,0.8666505,0.8985988,0.8985988,0.4121109,0.03178713" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1.5,1" rearScale="3,1" offset="2.5,-0.5,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,0,0,2,2,0,0" />
+      </Part>
+      <Part id="7777" partType="Fuselage-Body-1" position="-11.87499,4.849295,-3.406337" rotation="0,269.9999,0" drag="0.2482195,0.2482195,4.647825,4.647825,0.2681665,0.1364527" materials="11">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="5,1" rearScale="3.5,1" offset="1.25,-0.5,4.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,0,0,2,2" />
+      </Part>
+      <Part id="7778" partType="Fuselage-Body-1" position="-13.74999,5.161795,-4.218838" rotation="0,269.9999,0" drag="0.7106241,0.7106241,3.393087,3.393087,0.7386839,0.2180018" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4.5,1" rearScale="5,1" offset="2,-0.75,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7779" partType="Fuselage-Body-1" position="-15.24999,5.536795,-5.281341" rotation="0,269.9999,0" drag="0.763348,0.763348,3.078653,3.078653,0.6539428,0.232283" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="4,1" rearScale="4.5,1" offset="2.25,-0.75,3" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7780" partType="Fuselage-Body-1" position="-16.81249,5.911795,-6.468842" rotation="0,269.9999,0" drag="0.6898138,0.6898138,2.718234,2.718234,0.7429845,0.3375523" materials="12">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="3.5,1" rearScale="4,1" offset="2.5,-0.75,3.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7781" partType="Fuselage-Body-1" position="-18.31248,6.286795,-7.718843" rotation="0,269.9999,0" drag="0.6826522,0.6826522,2.177948,2.177948,0.7444214,0.3360438" materials="13">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="2.5,1" rearScale="3.5,1" offset="2.5,-0.75,2.75" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7782" partType="Fuselage-Body-1" position="-19.56248,6.661795,-8.96885" rotation="0,269.9999,0" drag="0.3598769,0.3598769,0.972645,0.972645,0.7059181,0.2926059" materials="13">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="1.5,0.5" rearScale="2.5,1" offset="2.5,-0.75,2.25" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7783" partType="Fuselage-Body-1" position="-20.49998,7.036795,-10.21884" rotation="0,269.9999,0" drag="0.09191485,0.09191485,0.3526768,0.3526768,0.3341958,0.1181172" materials="14">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Fuselage.State frontScale="0.5,0" rearScale="1.5,0.5" offset="2.5,-0.75,1.5" deadWeight="0" buoyancy="0" fuelPercentage="0" cornerTypes="2,2,2,2,2,2,2,2" />
+      </Part>
+      <Part id="7784" partType="Wing-2" position="-13,4.974291,-3.343831" rotation="0,0,90.00001" drag="0,0,0,0,0,0" centerOfMass="0.5254295,2.101718,-2.0625" materials="9,9">
+        <FuelTank.State fuel="0" capacity="0" />
+        <Wing.State angleOfAttack="0" airfoil="Symmetric" inverted="false" wingPhysicsEnabled="true" rootLeadingOffset="0.75" rootTrailingOffset="1.5" tipLeadingOffset="0.75" tipTrailingOffset="0.25" tipPosition="1.25,5,-4" hingeDistance="0.3" allowControlSurfaces="true" fuelPercentage="0">
+          <ControlSurface start="1" end="14" inputId="Roll" invert="false" maxDeflectionDegree="35" />
+        </Wing.State>
+      </Part>
+      <Part id="7785" partType="Inlet-1" position="-7.187492,3.849295,1.156174" rotation="0,0,180" drag="0.134,0.134,0.257,0.257,0.135,0" materials="10,10,-3" />
+      <Part id="7786" partType="AirBrake-1" position="-4.875002,4.474294,0.218671" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7787" partType="AirBrake-1" position="-5.875002,4.474294,0.2186691" rotation="0,0,0" drag="0,0,0,0,0,0" materials="11,11">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7788" partType="AirBrake-1" position="-6.3125,4.474294,0.21867" rotation="0,0,0" drag="0,0,0,0,0,0" materials="10,10">
+        <InputController.State activationGroup="0" invert="false" min="0" max="1" input="Brake" />
+      </Part>
+      <Part id="7789" partType="NoseCone-3" position="-1.250002,4.974295,2.468669" rotation="0,270,90.00008" drag="0.005997528,0.005997528,0,0,0.06201699,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7790" partType="NoseCone-3" position="-1.250002,4.849295,1.593666" rotation="0,270,90.00008" drag="0.01199552,0.01199552,0.00012,0.00012,0.3791311,0" materials="9">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7791" partType="NoseCone-3" position="-1.250002,4.974295,0.7811701" rotation="0,270,90.00008" drag="0.002998725,0.002998725,0,0,0.05877703,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7792" partType="NoseCone-3" position="-1.250002,4.974295,0.4061681" rotation="0,270,90.00008" drag="0.005997615,0.005997615,4.000001E-05,4.000001E-05,0.05306953,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7793" partType="NoseCone-3" position="-1.250002,4.974295,4.718668" rotation="0,270,90.00008" drag="0.005996775,0.005996775,4.000001E-05,4.000001E-05,0.06561755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7794" partType="NoseCone-3" position="-1.250002,4.974295,4.343668" rotation="0,270,90.00008" drag="0.002998464,0.002998464,0.00048,0.00048,0.05902979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7795" partType="NoseCone-3" position="-1.250002,4.974295,3.968665" rotation="0,270,90.00008" drag="0.005997068,0.005997068,0.00148,0.00148,0.06561755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7796" partType="NoseCone-3" position="-1.250002,4.974295,3.593665" rotation="0,270,90.00008" drag="0.002998599,0.002998599,0.00048,0.00048,0.05902978,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7797" partType="NoseCone-3" position="-1.250002,4.974295,3.218666" rotation="0,270,90.00008" drag="0.005997316,0.005997316,0.00144,0.00144,0.06561732,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7798" partType="NoseCone-3" position="-1.250002,4.974295,2.843666" rotation="0,270,90.00008" drag="0.002998713,0.002998713,4.000001E-05,4.000001E-05,0.05902888,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7799" partType="NoseCone-3" position="-1.250002,4.849295,6.718669" rotation="0,270,90.00008" drag="0.009985391,0.009985391,0.013272,0.013272,0.3803994,0" materials="10">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7800" partType="NoseCone-3" position="-1.250002,4.974295,5.843669" rotation="0,270,90.00008" drag="0.002998092,0.002998092,0.00172,0.00172,0.06102979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7801" partType="NoseCone-3" position="-1.250002,4.974295,5.468669" rotation="0,270,90.00008" drag="0.00599642,0.00599642,0.0002,0.0002,0.06561755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7802" partType="NoseCone-3" position="-1.250002,4.974295,5.093669" rotation="0,270,90.00008" drag="0.002998304,0.002998304,0,0,0.05902979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7803" partType="NoseCone-3" position="-1.250002,4.974295,9.84375" rotation="0,270,90.00008" drag="0.00399709,0.00399709,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7804" partType="NoseCone-3" position="-1.250002,4.974295,9.468707" rotation="0,270,90.00008" drag="0.007993175,0.007993175,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7805" partType="NoseCone-3" position="-1.250002,4.974295,9.093666" rotation="0,270,90.00008" drag="0.003996077,0.003996077,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7806" partType="NoseCone-3" position="-1.250002,4.974295,8.718676" rotation="0,270,90.00008" drag="0.007991118,0.007991118,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7807" partType="NoseCone-3" position="-1.250002,4.974295,8.343674" rotation="0,270,90.00008" drag="0.00399504,0.00399504,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7808" partType="NoseCone-3" position="-1.250002,4.974295,7.968678" rotation="0,270,90.00008" drag="0.00798904,0.00798904,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7809" partType="NoseCone-3" position="-1.250002,4.974295,7.593678" rotation="0,270,90.00008" drag="0.003994004,0.003994004,0.004,0.004,0.06202979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7810" partType="NoseCone-3" position="-1.250002,4.974295,16.09377" rotation="0,270,90.00008" drag="0.004,0.004,0.004,0.004,0.06202979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7811" partType="NoseCone-3" position="-1.250002,4.849295,16.96875" rotation="0,270,90.00008" drag="0.012,0.012,0.016,0.016,0.381714,0" materials="12">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7812" partType="NoseCone-3" position="-1.250002,4.974295,15.71877" rotation="0,270,90.00008" drag="0.008,0.008,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7813" partType="NoseCone-3" position="-1.250002,4.974295,15.34377" rotation="0,270,90.00008" drag="0.004,0.004,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7814" partType="NoseCone-3" position="-1.250002,4.974295,14.96877" rotation="0,270,90.00008" drag="0.008,0.008,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7815" partType="NoseCone-3" position="-1.250002,4.974295,14.59377" rotation="0,270,90.00008" drag="0.004,0.004,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7816" partType="NoseCone-3" position="-1.250002,4.974295,14.21877" rotation="0,270,90.00008" drag="0.007999988,0.007999988,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7817" partType="NoseCone-3" position="-1.250002,4.974295,13.84377" rotation="0,270,90.00008" drag="0.003999973,0.003999973,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7818" partType="NoseCone-3" position="-1.250002,4.974295,13.46877" rotation="0,270,90.00008" drag="0.007999837,0.007999837,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7819" partType="NoseCone-3" position="-1.250002,4.974295,13.09377" rotation="0,270,90.00008" drag="0.003999828,0.003999828,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7820" partType="NoseCone-3" position="-1.250002,4.974295,12.71877" rotation="0,270,90.00008" drag="0.007999364,0.007999364,0.006,0.006,0.06402979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7821" partType="NoseCone-3" position="-1.250002,4.849295,11.84377" rotation="0,270,90.00008" drag="0.01799227,0.01799227,0.02,0.02,0.3837141,0" materials="11">
+        <AdaptiveNoseCone.State scale="1.5,1,0.1" />
+      </Part>
+      <Part id="7822" partType="NoseCone-3" position="-1.250002,4.974295,10.96877" rotation="0,270,90.00008" drag="0.007997072,0.007997072,0.006,0.006,0.06961755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7823" partType="NoseCone-3" position="-1.250002,4.974295,10.59375" rotation="0,270,90.00008" drag="0.003998059,0.003998059,0.002,0.002,0.06002979,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+      <Part id="7824" partType="NoseCone-3" position="-1.250002,4.974295,10.21875" rotation="0,270,90.00008" drag="0.007995159,0.007995159,0.004,0.004,0.06761755,0" materials="1">
+        <AdaptiveNoseCone.State scale="0.5,0.5,0.1" />
+      </Part>
+    </Parts>
+    <Connections>
+      <Connection partA="1" partB="73" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7" partB="5" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="62" partB="5" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="86" partB="5" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="94" partB="5" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="10" partB="7" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="72" partB="7" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="73" partB="7" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="88" partB="7" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="96" partB="7" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="9" partB="12" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="9" partB="10" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="88" partB="9" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="14" partB="10" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="12" partB="13" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="5310" partB="12" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="13" partB="14" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="18" partB="16" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="60" partB="16" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="58" partB="16" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="20" partB="18" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="21" partB="18" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="498" partB="20" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="58" partB="20" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7524" partB="20" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7570" partB="20" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7578" partB="20" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7628" partB="20" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7632" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7633" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7634" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,5,2,2" />
+      <Connection partA="7635" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7636" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7637" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7685" partB="20" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7731" partB="20" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7739" partB="20" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7789" partB="20" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7793" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7794" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7795" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,6,2" />
+      <Connection partA="7796" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7797" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7798" partB="20" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="22" partB="21" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="498" partB="21" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="23" partB="22" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="25" partB="22" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="27" partB="23" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="271" partB="23" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="268" partB="23" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="269" partB="23" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="270" partB="23" attachPointsA="2" attachPointsB="4" />
+      <Connection partA="278" partB="23" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="25" partB="498" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="25" partB="278" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7503" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7504" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7505" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7506" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="5,2,2,2,2" />
+      <Connection partA="7507" partB="25" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7524" partB="25" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7525" partB="25" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7527" partB="25" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="7528" partB="25" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7529" partB="25" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7664" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7665" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7666" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7667" partB="25" attachPointsA="0,1,2,3,4" attachPointsB="2,6,2,2,2" />
+      <Connection partA="7668" partB="25" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7685" partB="25" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7686" partB="25" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7688" partB="25" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="7689" partB="25" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7690" partB="25" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="28" partB="27" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="273" partB="27" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="274" partB="27" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="276" partB="27" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="275" partB="27" attachPointsA="2" attachPointsB="4" />
+      <Connection partA="562" partB="27" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="563" partB="27" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="29" partB="28" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="33" partB="28" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="30" partB="29" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="34" partB="29" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="50" partB="30" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="35" partB="30" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="34" partB="33" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="562" partB="33" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="563" partB="33" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7540" partB="33" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7541" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7542" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7543" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,5,2,2,2" />
+      <Connection partA="7544" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7545" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7546" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7547" partB="33" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="7701" partB="33" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7702" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7703" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7704" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="6,2,2,2,2" />
+      <Connection partA="7705" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7706" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7707" partB="33" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7708" partB="33" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="35" partB="34" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7547" partB="34" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7548" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7549" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="5,2,2,2,2" />
+      <Connection partA="7550" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7551" partB="34" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7708" partB="34" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7709" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7710" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="2,6,2,2,2" />
+      <Connection partA="7711" partB="34" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7712" partB="34" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7178" partB="35" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7551" partB="35" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7552" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7553" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7554" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,5,2,2" />
+      <Connection partA="7555" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7712" partB="35" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7713" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7714" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7715" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,6,2" />
+      <Connection partA="7716" partB="35" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7178" partB="50" attachPointsA="3" attachPointsB="4" />
+      <Connection partA="51" partB="50" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7726" partB="50" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7730" partB="50" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7341" partB="51" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7717" partB="51" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7723" partB="51" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="58" partB="59" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7597" partB="58" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7638" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7639" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,5,2,2,2" />
+      <Connection partA="7640" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7641" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7758" partB="58" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7799" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7800" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="6,2,2,2,2" />
+      <Connection partA="7801" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7802" partB="58" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="60" partB="59" attachPointsA="0,2,4,5,6" attachPointsB="2,2,2,2,2" />
+      <Connection partA="61" partB="59" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7642" partB="59" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7643" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7644" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,5,2,2" />
+      <Connection partA="7645" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7646" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7647" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7648" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7803" partB="59" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7804" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7805" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,6,2" />
+      <Connection partA="7806" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7807" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7808" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7809" partB="59" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="62" partB="61" attachPointsA="1,2,4,5,6" attachPointsB="2,2,2,2,2" />
+      <Connection partA="86" partB="61" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7642" partB="61" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="7660" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7661" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,5,2,2,2" />
+      <Connection partA="7662" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7663" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7803" partB="61" attachPointsA="0,1" attachPointsB="2,2" />
+      <Connection partA="7821" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7822" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="6,2,2,2,2" />
+      <Connection partA="7823" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7824" partB="61" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="73" partB="72" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="74" partB="72" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="94" partB="72" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="75" partB="73" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="74" partB="75" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="95" partB="74" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="78" partB="84" attachPointsA="1" attachPointsB="1" />
+      <Connection partA="82" partB="78" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="79" partB="78" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="89" partB="78" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="89" partB="79" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="84" partB="83" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="83" partB="86" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="95" partB="83" attachPointsA="3" attachPointsB="5" />
+      <Connection partA="94" partB="86" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="95" partB="86" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="96" partB="86" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7655" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7656" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,5,2,2" />
+      <Connection partA="7657" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7658" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7659" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7816" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7817" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,6,2" />
+      <Connection partA="7818" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7819" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7820" partB="86" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="96" partB="88" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7649" partB="88" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7650" partB="88" attachPointsA="0,1,2,3,4" attachPointsB="5,2,2,2,2" />
+      <Connection partA="7810" partB="88" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7811" partB="88" attachPointsA="0,1,2,3,4" attachPointsB="2,6,2,2,2" />
+      <Connection partA="95" partB="94" attachPointsA="2" attachPointsB="3" />
+      <Connection partA="7651" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7652" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,5,2,2,2" />
+      <Connection partA="7653" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7654" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7812" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7813" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="6,2,2,2,2" />
+      <Connection partA="7814" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7815" partB="96" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="268" partB="273" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="269" partB="268" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="270" partB="269" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="270" partB="271" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="274" partB="273" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="275" partB="274" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="275" partB="276" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="562" partB="276" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="563" partB="278" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7527" partB="278" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7530" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7531" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,5,2,2" />
+      <Connection partA="7532" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7533" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7534" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7535" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7688" partB="278" attachPointsA="2,3,4" attachPointsB="2,2,2" />
+      <Connection partA="7691" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7692" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,6,2" />
+      <Connection partA="7693" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7694" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7695" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7696" partB="278" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7179" partB="442" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7177" partB="442" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7528" partB="498" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7570" partB="498" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7579" partB="498" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7628" partB="498" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7629" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7630" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7631" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7689" partB="498" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7731" partB="498" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7740" partB="498" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7789" partB="498" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7790" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7791" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7792" partB="498" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7536" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7537" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7538" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7539" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="5,2,2,2,2" />
+      <Connection partA="7540" partB="563" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="7697" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7698" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7699" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7700" partB="563" attachPointsA="0,1,2,3,4" attachPointsB="2,6,2,2,2" />
+      <Connection partA="7701" partB="563" attachPointsA="0,1,4" attachPointsB="2,2,2" />
+      <Connection partA="3673" partB="3674" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="3673" partB="7178" attachPointsA="1,2,3,4,5" attachPointsB="2,2,2,2,2" />
+      <Connection partA="3674" partB="7178" attachPointsA="0,2,3,4,5" attachPointsB="2,2,2,2,2" />
+      <Connection partA="7718" partB="7177" attachPointsA="2,3,4,5" attachPointsB="1,1,1,1" />
+      <Connection partA="7178" partB="7179" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7563" partB="7178" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7569" partB="7178" attachPointsA="0,1,2" attachPointsB="2,2,2" />
+      <Connection partA="7730" partB="7178" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7557" partB="7179" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7718" partB="7341" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7723" partB="7341" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7508" partB="7507" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7509" partB="7508" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7510" partB="7509" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7511" partB="7510" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7512" partB="7511" attachPointsA="1" attachPointsB="4" />
+      <Connection partA="7513" partB="7512" attachPointsA="4" attachPointsB="0" />
+      <Connection partA="7514" partB="7513" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7518" partB="7513" attachPointsA="0" attachPointsB="6" />
+      <Connection partA="7519" partB="7513" attachPointsA="0" attachPointsB="5" />
+      <Connection partA="7520" partB="7513" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="7515" partB="7514" attachPointsA="0" attachPointsB="3" />
+      <Connection partA="7516" partB="7515" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7517" partB="7515" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7521" partB="7520" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7522" partB="7521" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7523" partB="7521" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7526" partB="7525" attachPointsA="0,2" attachPointsB="1,2" />
+      <Connection partA="7568" partB="7556" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7556" partB="7557" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7557" partB="7561" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7557" partB="7563" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7558" partB="7557" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7558" partB="7559" attachPointsA="1" attachPointsB="6" />
+      <Connection partA="7564" partB="7558" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7562" partB="7558" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7560" partB="7559" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7565" partB="7559" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7566" partB="7559" attachPointsA="0,2" attachPointsB="3,2" />
+      <Connection partA="7567" partB="7559" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7561" partB="7560" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7564" partB="7560" attachPointsA="2,3,4,5" attachPointsB="2,2,2,2" />
+      <Connection partA="7562" partB="7561" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7562" partB="7564" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7562" partB="7563" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7564" partB="7565" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7571" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7575" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7576" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7577" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7578" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7579" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7580" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7581" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7597" partB="7570" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7612" partB="7570" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7572" partB="7571" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7575" partB="7571" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7580" partB="7571" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7606" partB="7571" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7625" partB="7571" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7626" partB="7571" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7627" partB="7571" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7573" partB="7572" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7603" partB="7572" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7604" partB="7572" attachPointsA="0,1" attachPointsB="2,4" />
+      <Connection partA="7605" partB="7572" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7574" partB="7573" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7613" partB="7573" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7575" partB="7574" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7612" partB="7574" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7614" partB="7574" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7624" partB="7574" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7576" partB="7575" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7600" partB="7575" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7602" partB="7575" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7610" partB="7575" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7611" partB="7575" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7577" partB="7576" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7581" partB="7576" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7578" partB="7577" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7588" partB="7577" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7591" partB="7577" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7597" partB="7577" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7599" partB="7577" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7579" partB="7578" attachPointsA="6" attachPointsB="5" />
+      <Connection partA="7581" partB="7578" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7589" partB="7578" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7594" partB="7578" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7597" partB="7578" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7580" partB="7579" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7584" partB="7579" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7585" partB="7579" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7586" partB="7579" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7587" partB="7579" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7595" partB="7579" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7581" partB="7580" attachPointsA="0,5" attachPointsB="2,6" />
+      <Connection partA="7582" partB="7580" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7583" partB="7580" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7588" partB="7587" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7589" partB="7587" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7589" partB="7588" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7590" partB="7588" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7591" partB="7588" attachPointsA="2,3" attachPointsB="2,2" />
+      <Connection partA="7592" partB="7591" attachPointsA="0" attachPointsB="9" />
+      <Connection partA="7593" partB="7591" attachPointsA="0" attachPointsB="10" />
+      <Connection partA="7596" partB="7591" attachPointsA="0" attachPointsB="8" />
+      <Connection partA="7594" partB="7593" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7595" partB="7594" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7598" partB="7597" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7601" partB="7600" attachPointsA="0" attachPointsB="9" />
+      <Connection partA="7609" partB="7600" attachPointsA="0" attachPointsB="10" />
+      <Connection partA="7602" partB="7601" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7603" partB="7602" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7604" partB="7602" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7608" partB="7602" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7604" partB="7603" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7606" partB="7605" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7607" partB="7606" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7608" partB="7606" attachPointsA="0,2" attachPointsB="2,2" />
+      <Connection partA="7613" partB="7612" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7614" partB="7612" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7615" partB="7612" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7616" partB="7612" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7623" partB="7612" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7614" partB="7613" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7616" partB="7613" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7615" partB="7614" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7616" partB="7615" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7617" partB="7616" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7623" partB="7616" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7618" partB="7617" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7619" partB="7618" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7620" partB="7619" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7621" partB="7620" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7623" partB="7620" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7622" partB="7621" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7669" partB="7668" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7670" partB="7669" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7671" partB="7670" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7672" partB="7671" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7673" partB="7672" attachPointsA="1" attachPointsB="4" />
+      <Connection partA="7674" partB="7673" attachPointsA="4" attachPointsB="0" />
+      <Connection partA="7675" partB="7674" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7679" partB="7674" attachPointsA="0" attachPointsB="5" />
+      <Connection partA="7680" partB="7674" attachPointsA="0" attachPointsB="6" />
+      <Connection partA="7681" partB="7674" attachPointsA="3" attachPointsB="1" />
+      <Connection partA="7676" partB="7675" attachPointsA="0" attachPointsB="3" />
+      <Connection partA="7677" partB="7676" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7678" partB="7676" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7682" partB="7681" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7683" partB="7682" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7684" partB="7682" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7687" partB="7686" attachPointsA="0,2" attachPointsB="1,2" />
+      <Connection partA="7720" partB="7717" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7726" partB="7717" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7719" partB="7718" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7721" partB="7720" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7724" partB="7720" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7725" partB="7720" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7722" partB="7721" attachPointsA="5" attachPointsB="0" />
+      <Connection partA="7724" partB="7721" attachPointsA="2,3,4,6" attachPointsB="2,2,2,2" />
+      <Connection partA="7723" partB="7722" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7724" partB="7722" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7727" partB="7722" attachPointsA="0" attachPointsB="0" />
+      <Connection partA="7728" partB="7722" attachPointsA="0,2" attachPointsB="3,2" />
+      <Connection partA="7729" partB="7722" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7724" partB="7723" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7725" partB="7723" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7726" partB="7723" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7725" partB="7724" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7727" partB="7724" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7726" partB="7725" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7732" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7736" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7737" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7738" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7739" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7740" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7741" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7742" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7758" partB="7731" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7773" partB="7731" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7733" partB="7732" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7736" partB="7732" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7741" partB="7732" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7767" partB="7732" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7786" partB="7732" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7787" partB="7732" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7788" partB="7732" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7734" partB="7733" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7764" partB="7733" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7765" partB="7733" attachPointsA="0,1" attachPointsB="2,4" />
+      <Connection partA="7768" partB="7733" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7735" partB="7734" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7774" partB="7734" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7736" partB="7735" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7773" partB="7735" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7775" partB="7735" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7785" partB="7735" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7737" partB="7736" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7761" partB="7736" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7763" partB="7736" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7771" partB="7736" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7772" partB="7736" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7738" partB="7737" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7742" partB="7737" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7739" partB="7738" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7749" partB="7738" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7752" partB="7738" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7758" partB="7738" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7760" partB="7738" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7740" partB="7739" attachPointsA="5" attachPointsB="6" />
+      <Connection partA="7742" partB="7739" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7750" partB="7739" attachPointsA="0,1" attachPointsB="4,2" />
+      <Connection partA="7755" partB="7739" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7758" partB="7739" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7741" partB="7740" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7745" partB="7740" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7746" partB="7740" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7747" partB="7740" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7748" partB="7740" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7756" partB="7740" attachPointsA="3" attachPointsB="2" />
+      <Connection partA="7742" partB="7741" attachPointsA="0,6" attachPointsB="2,5" />
+      <Connection partA="7743" partB="7741" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7744" partB="7741" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7749" partB="7748" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7750" partB="7748" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7750" partB="7749" attachPointsA="4" attachPointsB="2" />
+      <Connection partA="7751" partB="7749" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7752" partB="7749" attachPointsA="4,5" attachPointsB="2,2" />
+      <Connection partA="7753" partB="7752" attachPointsA="0" attachPointsB="10" />
+      <Connection partA="7754" partB="7752" attachPointsA="0" attachPointsB="9" />
+      <Connection partA="7757" partB="7752" attachPointsA="0" attachPointsB="8" />
+      <Connection partA="7755" partB="7754" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7756" partB="7755" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7759" partB="7758" attachPointsA="0" attachPointsB="2" />
+      <Connection partA="7762" partB="7761" attachPointsA="0" attachPointsB="10" />
+      <Connection partA="7769" partB="7761" attachPointsA="0" attachPointsB="9" />
+      <Connection partA="7770" partB="7761" attachPointsA="0" attachPointsB="8" />
+      <Connection partA="7763" partB="7762" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7764" partB="7763" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7765" partB="7763" attachPointsA="4" attachPointsB="2" />
+      <Connection partA="7766" partB="7763" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7765" partB="7764" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7768" partB="7767" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7774" partB="7773" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7775" partB="7773" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7776" partB="7773" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7777" partB="7773" attachPointsA="7" attachPointsB="2" />
+      <Connection partA="7784" partB="7773" attachPointsA="0" attachPointsB="1" />
+      <Connection partA="7775" partB="7774" attachPointsA="6" attachPointsB="2" />
+      <Connection partA="7777" partB="7774" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7776" partB="7775" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7777" partB="7776" attachPointsA="5" attachPointsB="2" />
+      <Connection partA="7778" partB="7777" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7784" partB="7777" attachPointsA="2" attachPointsB="2" />
+      <Connection partA="7779" partB="7778" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7780" partB="7779" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7781" partB="7780" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7782" partB="7781" attachPointsA="1" attachPointsB="0" />
+      <Connection partA="7784" partB="7781" attachPointsA="1" attachPointsB="2" />
+      <Connection partA="7783" partB="7782" attachPointsA="1" attachPointsB="0" />
+    </Connections>
+    <Bodies>
+      <Body partIds="1,73,7,5,62,61,59,58,16,18,20,498,21,22,23,27,28,29,30,50,7178,35,34,33,562,276,275,274,273,268,269,270,271,563,278,25,7503,7504,7505,7506,7507,7508,7509,7510,7524,7525,7526,7527,7528,7529,7664,7665,7666,7667,7668,7669,7670,7671,7685,7686,7687,7688,7689,7690,7530,7531,7532,7533,7534,7535,7691,7692,7693,7694,7695,7696,7536,7537,7538,7539,7540,7697,7698,7699,7700,7701,7541,7542,7543,7544,7545,7546,7547,7702,7703,7704,7705,7706,7707,7708,7548,7549,7550,7551,7709,7710,7711,7712,7552,7553,7554,7555,7713,7714,7715,7716,3673,3674,7179,442,7177,7718,7341,51,7717,7720,7721,7722,7723,7724,7725,7726,7727,7729,7557,7556,7561,7560,7559,7558,7564,7562,7563,7565,7567,7570,7571,7572,7573,7574,7575,7576,7577,7578,7579,7580,7581,7582,7583,7584,7585,7586,7587,7588,7589,7590,7591,7592,7593,7594,7595,7596,7597,7598,7599,7600,7601,7602,7603,7604,7608,7606,7605,7607,7609,7610,7611,7612,7613,7614,7615,7616,7617,7618,7619,7620,7621,7622,7623,7624,7625,7626,7627,7628,7629,7630,7631,7731,7732,7733,7734,7735,7736,7737,7738,7739,7740,7741,7742,7743,7744,7745,7746,7747,7748,7749,7750,7751,7752,7753,7754,7755,7756,7757,7758,7759,7760,7761,7762,7763,7764,7765,7766,7769,7770,7771,7772,7773,7774,7775,7776,7777,7778,7779,7780,7781,7782,7783,7784,7785,7768,7767,7786,7787,7788,7789,7790,7791,7792,7632,7633,7634,7635,7636,7637,7793,7794,7795,7796,7797,7798,60,7638,7639,7640,7641,7799,7800,7801,7802,7642,7643,7644,7645,7646,7647,7648,7803,7804,7805,7806,7807,7808,7809,86,83,95,74,72,94,75,96,88,9,12,13,14,10,5310,7649,7650,7810,7811,7651,7652,7653,7654,7812,7813,7814,7815,7655,7656,7657,7658,7659,7816,7817,7818,7819,7820,7660,7661,7662,7663,7821,7822,7823,7824" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="78,84,82,79,89" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7511,7512,7513,7514,7515,7516,7517,7518,7519,7520,7521,7522,7523" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7566" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7568" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7569" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7672,7673,7674,7675,7676,7677,7678,7679,7680,7681,7682,7683,7684" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7719" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7728" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+      <Body partIds="7730" position="0,0,0" rotation="0,0,0" velocity="0,0,0" angularVelocity="0,0,0" />
+    </Bodies>
+  </Assembly>
+  <Theme name="Custom">
+    <Material color="737373" r="0.3" />
+    <Material color="171717" r="0.15" />
+    <Material color="8BA8FF" r="0.5" />
+    <Material color="000517" r="0.25" />
+    <Material color="000000" r="0.3" />
+    <Material color="45D0FF" r="0.3" />
+    <Material color="17C5FF" r="0.3" />
+    <Material color="00BFFF" r="0.3" />
+    <Material color="00ADE7" r="0.3" />
+    <Material color="009CD0" r="0.3" />
+    <Material color="008BB9" r="0.3" />
+    <Material color="0079A2" r="0.3" />
+    <Material color="00688B" r="0.3" />
+    <Material color="005673" r="0.3" />
+    <Material color="00455C" r="0.3" />
+    <Material color="000000" r="0" />
+    <Material color="FFFFFF" r="0" />
+    <Material color="1E1E1E" r="0" />
+    <Material color="D0D0D0" r="0" />
+  </Theme>
+</Aircraft>
