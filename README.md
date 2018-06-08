@@ -1,4 +1,6 @@
 # Game-SimplePlanes-DLC-Mod
+An example:
+![alt text](https://i.imgur.com/LuRwylk.png)
 ## About all these files
     I didn't write the game!
 
